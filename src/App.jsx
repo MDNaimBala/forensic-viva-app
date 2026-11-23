@@ -12,6 +12,7 @@ function App() {
   const [currentCardKey, setCurrentCardKey] = useState("01");
   const [currentTopicIdx, setCurrentTopicIdx] = useState(0);
   const [openQuestions, setOpenQuestions] = useState({});
+  const [showCredits, setShowCredits] = useState(false);
 
   // Mode helpers
   const isRawMode = currentSet === "raw";
@@ -560,6 +561,43 @@ function App() {
           </div>
         )}
       </div>
+
+      {/* Discreet Question Mark Trigger aligned with card sheet border */}
+      <div className="credits-bottom-bar">
+        <button
+          className="credits-btn"
+          onClick={() => setShowCredits(true)}
+          title="Credits"
+          aria-label="Credits"
+        >
+          ?
+        </button>
+      </div>
+
+      {/* Minimalist Credits Modal Popover */}
+      {showCredits && (
+        <div className="credits-overlay" onClick={() => setShowCredits(false)}>
+          <div className="credits-modal-card" onClick={(e) => e.stopPropagation()}>
+            <div className="credits-modal-header-simple">
+              <button
+                className="credits-modal-close"
+                onClick={() => setShowCredits(false)}
+                title="Close"
+              >
+                &times;
+              </button>
+            </div>
+            <div className="credits-modal-content">
+              <p className="credit-line">
+                by <strong>Muhammad Naim</strong>
+              </p>
+              <p className="credit-line-sub">
+                using <strong>Google's NotebookLM</strong> &amp; <strong>Concept Guide</strong>
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

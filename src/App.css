@@ -865,3 +865,119 @@ body {
     font-size: 12px;
   }
 }
+
+/* ==================== FOOTER & CREDITS POPUP ==================== */
+/* Inline Bottom-Right Question Mark Trigger aligned with Card Sheet Border */
+.credits-bottom-bar {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 14px;
+  padding-bottom: 24px;
+  width: 100%;
+}
+
+.credits-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 1.5px solid #000000;
+  color: #000000;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  transition: all 0.15s ease;
+}
+
+.credits-btn:hover {
+  background: #000000;
+  color: #ffffff;
+}
+
+/* Modal Overlay */
+.credits-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+/* Minimalist Exam Modal Card */
+.credits-modal-card {
+  background: #ffffff;
+  border: 1.5px solid #000000;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 360px;
+  padding: 14px 18px 18px 18px;
+  border-radius: 2px;
+  animation: modalFadeIn 0.15s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.credits-modal-header-simple {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 4px;
+}
+
+.credits-modal-close {
+  background: transparent;
+  border: none;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  color: #000000;
+  padding: 0 4px;
+}
+
+.credits-modal-close:hover {
+  color: #666666;
+}
+
+.credits-modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: center;
+  padding-bottom: 6px;
+}
+
+.credit-line {
+  font-size: 14px;
+  color: #111111;
+  line-height: 1.45;
+}
+
+.credit-line-sub {
+  font-size: 12px;
+  color: #555555;
+  line-height: 1.45;
+}
+
+.credit-line strong,
+.credit-line-sub strong {
+  color: #000000;
+  font-weight: 700;
+}
