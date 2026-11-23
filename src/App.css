@@ -1,0 +1,867 @@
+/* Reset and base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f7f7f7;
+  color: #000000;
+  font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+  padding: 30px 15px;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 100%;
+  max-width: 950px;
+  display: flex;
+  justify-content: center;
+}
+
+.page-container {
+  width: 100%;
+  max-width: 950px;
+  min-width: 0;
+}
+
+/* Examination Controller Toolbar */
+.exam-controller {
+  background: #ffffff;
+  border: 1.5px solid #000000;
+  padding: 14px 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.controller-row.main-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.ctrl-btn {
+  background: #ffffff;
+  border: 1.5px solid #000000;
+  color: #000000;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 6px 14px;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+}
+
+.ctrl-btn:hover:not(:disabled) {
+  background: #000000;
+  color: #ffffff;
+}
+
+.ctrl-btn:disabled {
+  border-color: #cccccc;
+  color: #aaaaaa;
+  cursor: not-allowed;
+}
+
+.card-indicator {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #000000;
+}
+
+.expand-all-btn {
+  background-color: #fafafa;
+}
+
+/* Set Switcher Toolbar */
+.set-switcher-bar {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.set-btn {
+  background: #ffffff;
+  border: 1.5px solid #000000;
+  color: #000000;
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 5px 12px;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+}
+
+.set-btn:hover {
+  background: #f0f0f0;
+}
+
+.set-btn.active {
+  background: #000000;
+  color: #ffffff;
+}
+
+.card-selector-bar {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #e2e2e2;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.selector-label {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #444444;
+}
+
+.pill-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.card-pill {
+  background: #ffffff;
+  border: 1px solid #777777;
+  color: #000000;
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 600;
+  padding: 3px 8px;
+  cursor: pointer;
+  border-radius: 2px;
+  min-width: 28px;
+  text-align: center;
+  transition: all 0.12s ease;
+}
+
+.card-pill:hover {
+  border-color: #000000;
+  background: #f0f0f0;
+}
+
+.card-pill.active {
+  background: #000000;
+  color: #ffffff;
+  border-color: #000000;
+  font-weight: 700;
+}
+
+/* Exam Card Sheet */
+.card-sheet {
+  background: #ffffff;
+  border: 1px solid #d0d0d0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  padding: 35px 40px 45px 40px;
+}
+
+/* Header matching the original scan */
+.sheet-header {
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.set-title {
+  display: inline-block;
+  font-size: 26px;
+  font-weight: 700;
+  color: #000000;
+  border-bottom: 2px solid #000000;
+  padding-bottom: 4px;
+  letter-spacing: 0.5px;
+}
+
+.card-subhead {
+  font-size: 16px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+/* Table - Exact Black & White Exam Grid */
+.soe-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #000000;
+  font-size: 14px;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.soe-table th,
+.soe-table td {
+  border: 1px solid #000000;
+  padding: 9px 12px;
+  vertical-align: middle;
+}
+
+/* Table Headers */
+.soe-table th {
+  font-weight: 700;
+  text-align: center;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 14px;
+}
+
+.th-type {
+  width: 18%;
+}
+
+.th-no {
+  width: 8%;
+  line-height: 1.2;
+}
+
+.th-question {
+  width: 74%;
+  text-align: center;
+}
+
+/* Cells */
+.td-type {
+  text-align: center;
+  font-weight: 700;
+  vertical-align: middle;
+  background-color: #ffffff;
+}
+
+.type-label {
+  display: inline-block;
+  font-size: 14px;
+}
+
+.td-no {
+  text-align: center;
+  font-weight: 500;
+}
+
+.td-question {
+  text-align: left;
+  line-height: 1.4;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* Row interaction */
+.q-row {
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.q-row:hover {
+  background-color: #f2f2f2;
+}
+
+.q-row.active-row {
+  background-color: #fafafa;
+}
+
+.question-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.question-text {
+  font-size: 14px;
+  color: #000000;
+}
+
+.toggle-icon {
+  font-size: 10px;
+  color: #555555;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.toggle-icon.expanded {
+  color: #000000;
+}
+
+/* Dropdown row (answer state) */
+.dropdown-row {
+  background-color: #fafafa;
+}
+
+.td-no-blank {
+  border-top: none;
+  background-color: #ffffff;
+}
+
+.td-answer {
+  padding: 16px 22px 18px 22px;
+  background-color: #fafafa;
+  border-top: 1px dashed #aaaaaa;
+}
+
+.answer-box {
+  background-color: transparent;
+  color: #111111;
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.answer-header {
+  font-weight: 700;
+  text-decoration: underline;
+  margin-bottom: 8px;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
+
+/* Markdown Rendering Inside Answer Box */
+.markdown-body {
+  font-family: inherit;
+  color: #1a1a1a;
+  line-height: 1.6;
+}
+
+.markdown-body p {
+  margin-bottom: 8px;
+}
+
+.markdown-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists - Fix dots and numbers sticking out */
+.markdown-body ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 24px;
+  margin: 6px 0 10px 0;
+}
+
+.markdown-body ol {
+  list-style-type: decimal;
+  list-style-position: outside;
+  padding-left: 24px;
+  margin: 6px 0 10px 0;
+}
+
+.markdown-body li {
+  margin-bottom: 5px;
+  line-height: 1.55;
+  padding-left: 2px;
+}
+
+.markdown-body li:last-child {
+  margin-bottom: 0;
+}
+
+/* Nested lists */
+.markdown-body ul ul {
+  list-style-type: circle;
+  padding-left: 20px;
+  margin: 4px 0 6px 0;
+}
+
+.markdown-body ul ul ul {
+  list-style-type: square;
+  padding-left: 18px;
+  margin: 3px 0 4px 0;
+}
+
+.markdown-body ol ol {
+  list-style-type: lower-alpha;
+  padding-left: 20px;
+  margin: 4px 0 6px 0;
+}
+
+.markdown-body ul ol,
+.markdown-body ol ul {
+  padding-left: 20px;
+  margin: 4px 0 6px 0;
+}
+
+/* Markdown Tables (e.g. burn vs scald, fee sharing vs splitting) */
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 14px 0;
+  font-size: 13px;
+  border: 1.5px solid #000000;
+  background-color: #ffffff;
+}
+
+.markdown-body th {
+  border: 1px solid #000000;
+  padding: 8px 10px;
+  background-color: #f0f0f0;
+  font-weight: 700;
+  text-align: left;
+  color: #000000;
+}
+
+.markdown-body td {
+  border: 1px solid #444444;
+  padding: 7px 10px;
+  vertical-align: top;
+  color: #111111;
+  background-color: #ffffff;
+}
+
+.markdown-body tr:nth-child(even) td {
+  background-color: #fcfcfc;
+}
+
+/* Headings and Emphasis */
+.markdown-body strong {
+  font-weight: 700;
+  color: #000000;
+}
+
+.markdown-body em {
+  font-style: italic;
+}
+
+.markdown-body hr {
+  border: none;
+  border-top: 1px solid #cccccc;
+  margin: 10px 0;
+}
+
+.desktop-view {
+  display: block;
+  width: 100%;
+}
+
+.mobile-view {
+  display: none;
+  width: 100%;
+}
+
+/* MOBILE ADAPTATION (Phones and Compact Screens) */
+@media (max-width: 768px) {
+  .desktop-view {
+    display: none;
+  }
+
+  .mobile-view {
+    display: block;
+  }
+
+  body {
+    display: block; /* Critical: block display removes flexbox centering clipping */
+    padding: 10px 8px;
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+
+  #root {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .page-container {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  /* Compact Controller on Mobile */
+  .exam-controller {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    margin-bottom: 12px;
+  }
+
+  .controller-row.main-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .set-btn {
+    padding: 4px 9px;
+    font-size: 11.5px;
+  }
+
+  .ctrl-btn {
+    padding: 5px 8px;
+    font-size: 11px;
+  }
+
+  .card-indicator {
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+
+  .card-selector-bar {
+    margin-top: 8px;
+    padding-top: 8px;
+    gap: 8px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .selector-label {
+    font-size: 11px;
+    flex-shrink: 0;
+  }
+
+  .pill-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    scrollbar-width: thin;
+  }
+
+  .card-pill {
+    flex-shrink: 0;
+    padding: 4px 8px;
+    font-size: 11.5px;
+    min-width: 26px;
+  }
+
+  /* Compact Sheet on Mobile */
+  .card-sheet {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    padding: 14px 10px 20px 10px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+  }
+
+  .sheet-header {
+    margin-bottom: 8px;
+  }
+
+  .set-title {
+    font-size: 20px;
+    padding-bottom: 2px;
+  }
+
+  .card-subhead {
+    font-size: 13.5px;
+    margin-bottom: 12px;
+    text-align: center;
+  }
+
+  /* Clean Minimalist Mobile Examination Table - Pure Paper Aesthetic, Zero Slop */
+  .mobile-exam-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1.5px solid #000000;
+    background: #ffffff;
+    font-size: 13.5px;
+  }
+
+  .mobile-exam-table th {
+    border: 1px solid #000000;
+    padding: 7px 10px;
+    font-size: 12.5px;
+    font-weight: 700;
+    background-color: #f7f7f7;
+    color: #000000;
+  }
+
+  .m-th-no {
+    width: 44px;
+    min-width: 44px;
+    text-align: center;
+  }
+
+  .m-th-question {
+    text-align: left;
+    padding-left: 12px;
+  }
+
+  /* Clean Category Subheader Row - Subtle & Minimalist, No Black Block Slop */
+  .mobile-cat-row {
+    background-color: #fafafa;
+  }
+
+  .mobile-cat-cell {
+    border: 1px solid #000000;
+    padding: 7px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #222222;
+    border-top: 2px solid #000000;
+  }
+
+  /* Question Rows - Exact Exam Paper Styling */
+  .mobile-q-row {
+    border: 1px solid #000000;
+    cursor: pointer;
+    transition: background-color 0.12s ease;
+  }
+
+  .mobile-q-row:hover {
+    background-color: #f4f4f4;
+  }
+
+  .mobile-q-row.active-q {
+    background-color: #fafafa;
+  }
+
+  .mobile-q-no {
+    border: 1px solid #000000;
+    width: 44px;
+    min-width: 44px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    padding: 9px 4px;
+    vertical-align: top;
+  }
+
+  .mobile-q-cell {
+    border: 1px solid #000000;
+    padding: 9px 12px;
+    vertical-align: middle;
+  }
+
+  .mobile-q-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .mobile-q-text {
+    font-size: 13.5px;
+    line-height: 1.45;
+    color: #000000;
+  }
+
+  .mobile-toggle-indicator {
+    font-size: 9px;
+    color: #444444;
+    flex-shrink: 0;
+    margin-top: 3px;
+  }
+
+  /* Mobile Answer Row - Full-Width Markdown Body */
+  .mobile-ans-row {
+    background-color: #ffffff;
+  }
+
+  .mobile-ans-cell {
+    border: 1px solid #000000;
+    border-top: 1px dashed #999999;
+    padding: 14px 14px 16px 14px;
+  }
+
+  .mobile-ans-cell .answer-header {
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 6px;
+    text-decoration: underline;
+    color: #000000;
+  }
+
+  .mobile-ans-cell .markdown-body {
+    font-size: 13px;
+    line-height: 1.55;
+    color: #111111;
+  }
+
+  .mobile-ans-cell .markdown-body ul,
+  .mobile-ans-cell .markdown-body ol {
+    padding-left: 20px;
+    margin: 4px 0 8px 0;
+  }
+
+  /* Tables inside markdown on mobile scroll cleanly without stretching parent */
+  .markdown-body table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+  }
+}
+
+
+
+
+
+/* ==================== RAW QUESTIONS STYLES ==================== */
+.raw-btn {
+  font-weight: 700;
+}
+
+.raw-topic-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.selector-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.topic-dropdown {
+  background: #ffffff;
+  border: 1px solid #777777;
+  color: #000000;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 4px 8px;
+  border-radius: 2px;
+  cursor: pointer;
+  max-width: 100%;
+}
+
+.topic-dropdown:focus {
+  border-color: #000000;
+  outline: none;
+}
+
+.raw-subhead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.topic-main-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+}
+
+.meta-badge {
+  font-size: 12px;
+  font-weight: 700;
+  background: #ffffff;
+  border: 1px solid #000000;
+  color: #000000;
+  padding: 2px 8px;
+  border-radius: 2px;
+}
+
+.th-source {
+  width: 160px;
+  text-align: center;
+  border: 1px solid #000000;
+  padding: 10px 8px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.td-source {
+  border: 1px solid #000000;
+  padding: 10px 8px;
+  text-align: center;
+  vertical-align: top;
+  font-size: 12px;
+  background: #ffffff;
+  width: 160px;
+}
+
+/* Broad Category Divider Row for Raw Questions */
+.raw-cat-row {
+  background-color: #f5f5f5;
+}
+
+.raw-cat-cell {
+  border: 1px solid #000000;
+  border-top: 2px solid #000000;
+  padding: 8px 12px;
+  background-color: #f7f7f7;
+}
+
+.raw-cat-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #000000;
+}
+
+.contributor-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #111111;
+  display: block;
+}
+
+.page-ref-box {
+  margin-top: 12px;
+  padding: 8px 12px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-left: 3px solid #000000;
+  font-size: 12.5px;
+  color: #000000;
+}
+
+.page-ref-label {
+  font-weight: 700;
+  color: #000000;
+}
+
+@media (max-width: 768px) {
+  .m-contributor {
+    font-size: 11.5px;
+    color: #555555;
+    margin-top: 3px;
+    font-style: italic;
+  }
+
+  .raw-subhead {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .topic-main-title {
+    font-size: 15px;
+  }
+
+  .topic-dropdown {
+    width: 100%;
+    font-size: 12px;
+  }
+}

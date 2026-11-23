@@ -1,0 +1,81 @@
+{
+  "setNumber": "01",
+  "cardNumber": "01",
+  "categories": [
+    {
+      "name": "Recall",
+      "questions": [
+        {
+          "no": "01",
+          "text": "Define death. Mention the manner of death.",
+          "marks": "05",
+          "answerMarkdown": "**Definition of Death:**\nIn most countries of the world including Bangladesh, there is no clear-cut definition about death in law:\n* **Clinically:** Death is defined as \"Complete and irreversible cessation of life\".\n* **Medico-legal definition of death:** Death is permanent and irreversible cessation of functions of the three interlinked vital system of the body (the tripod of life) namely the nervous system, respiratory system and circulatory system.\n* **Dictionary definitions:**\n  * *Black's Law Dictionary:* \"The cessation of life; the ceasing to exist\".\n  * *Chamber's twentieth century dictionary:* \"Extinction of life\".\n  * *Oxford dictionary:* \"The end of life\".\n\n**Manner of Death:**\n* **Definition:** Manner of death indicates the circumstances under which the person died. Or, Manner of death indicates the design how cause of death has come into action.\n* **Types of manners of death:**\n  * **A. Natural:** If death occurs exclusively from disease.\n  * **B. Unnatural/violent:** If death occurs exclusively from injury or is hastened due to injury in a person suffering from natural disease. Violence may be:\n    * Suicidal\n    * Homicidal\n    * Accidental\n    * Undetermined or unexplained\n\n**Guide Book Page:** Page 138 & Page 148"
+        },
+        {
+          "no": "02",
+          "text": "Define abrasion. Mention its types.",
+          "marks": "05",
+          "answerMarkdown": "**Definition of Abrasion:**\n* **Abrasion:** Abrasion is damage or destruction of superficial epithelial covering of skin (epidermis) or mucus membrane, due to impact (mostly frictions) with hard, blunt and rough object or weapon.\n* *Or,* Abrasion is temporary loss of superficial epithelial covering of skin (epidermis) or mucus membrane, due to forcible friction of body surface against hard, blunt and rough object or weapon.\n\n**Types / Classification of Abrasion:**\n1. **Scratches / linear abrasion:** Caused by horizontal or tangential friction by pointed end of weapon. Wider at starting than at ending; denuded epithelium heaps up at the end.\n2. **Grazes / sliding abrasion (or brush burn or gravel rash):** Caused by horizontal or tangential friction between epithelium and some rough surface of an object, ground or weapon. Wider and deeper at the beginning; heaping of epithelium is present at the end. Most commonly in RTA.\n3. **Pressure abrasion:** Caused by more or less perpendicular force on the body surface. Friction is less and is directed towards the depth of the body. Examples include ligature mark in hanging or strangulation, nail marks in throttling, and teeth bite marks.\n4. **Imprint / impact or patterned abrasion:** Design and shape of weapon which causes it is left. Weapon of offence can be guessed from it (e.g., tyre mark in RTA).\n\n**Guide Book Page:** Page 217 & Page 218"
+        },
+        {
+          "no": "03",
+          "text": "Mention the prerequisites for starting medico-legal autopsy.",
+          "marks": "05",
+          "answerMarkdown": "**Prerequisites of Medico-Legal Autopsy:**\n* **A. Requisite papers:**\n  1. A copy of inquest report.\n  2. A copy of chalan.\n  3. A copy of death certificate (in case of hospital death).\n  4. Commanding certificate of police constable who carry and identify the dead body.\n* **B. Government authorized morgue.**\n* **C. Natural broad day light.**\n* **D. An ideal morgue/mortuary.**\n\n**Guide Book Page:** Page 196"
+        },
+        {
+          "no": "04",
+          "text": "What are the causes of death due to hanging?",
+          "marks": "05",
+          "answerMarkdown": "**Immediate Causes of Death in Hanging:**\n1. **Asphyxia:** Ligature forces root of tongue against posterior wall of pharynx, and folds epiglottis over entrance of larynx to block airway. A weight of 15 Kg is required to block trachea.\n2. **Apoplexy / venous congestion:** Jugular veins can be blocked with only pressure of 2 Kg on neck which stops cerebral circulation, causes rapid rise of venous pressure in head and unconsciousness.\n3. **Combination of asphyxia and apoplexy:** Most common cause.\n4. **Cerebral anemia or ischemia:** Pressure on large arteries of neck stops flow of blood in them (cerebral anemia and immediate coma).\n5. **Reflex vagal inhibition (i.e., vagal shock):** Carotid sinus gets stimulated when irritated by compression and causes vagal inhibition of heart, causing it to stop.\n6. **Fracture-dislocation of 2nd and 3rd cervical vertebra:** Leading to injury to medulla and upper part of spinal cord, as in case of judicial hanging.\n\n*(Delayed causes include: Infections, aspiration pneumonia, edema of lungs/larynx, hypoxic encephalopathy, infarction of brain, cerebral abscess, and cerebral softening).*\n\n**Guide Book Page:** Page 297 & Page 298"
+        },
+        {
+          "no": "05",
+          "text": "What do you mean by coup lesion and contre-coup lesion?",
+          "marks": "05",
+          "answerMarkdown": "* **Coup Lesion:**\n  * **Meaning:** Coup (blow, impact) means that injury is located beneath the area of impact, and results directly by the impacting force. Effects are immediate, resulting in contusions and hemorrhage.\n  * **Features:**\n    * Usually occurs when the head is fixed.\n    * Smaller the impact area the greater is the likelihood of a coup injury.\n    * *Example:* If head is fixed (e.g., when lying on the ground) and there is violent impact over the occiput, the fracture and underlying brain damage will be located beneath the site of impact.\n\n* **Contre-Coup (Contrecoup) Lesion:**\n  * **Meaning:** Contrecoup lesion means that lesion is present in an area opposite to the side of impact.\n  * **Features:**\n    * Usually occurs when head is free / not supported.\n    * Situated on the contralateral side of the impact area.\n    * Subdural or subarachnoid hemorrhage may be caused as a contre-coup lesion.\n    * Sustained in falls and RTAs when moving head decelerates suddenly by hitting a hard surface.\n    * *Mechanism:* Caused when moving head is suddenly decelerated by hitting a firm/hard surface. Sudden arrest of head results in brain injury which is still in motion, striking the arrested skull. Also, formation of cavity or vacuum in cranial cavity on the opposite side of impact exerts a suction effect which damages the brain.\n    * *Example:* When a person falls upon the back of his head striking the ground, he may sustain brain injury at the site of impact, i.e., occipital lobes (coup injury), and a more pronounced injury to the frontal lobes (contre-coup injury).\n\n**Guide Book Page:** Page 359 & Page 360"
+        }
+      ]
+    },
+    {
+      "name": "Interpretation",
+      "questions": [
+        {
+          "no": "06",
+          "text": "What are the cardinal autopsy findings in case of death due to starvation?",
+          "marks": "05",
+          "answerMarkdown": "**Cardinal Signs of Starvation (present in chronic starvation cases):**\n1. **Emaciated body with total loss of subcutaneous fat**.\n2. **Scaphoid / concave shaped abdomen**.\n3. **Distended gall bladder (GB) containing thick inspissated bile**.\n4. **Translucent tissue paper-like intestine**.\n\n*(Alternative / Surest signs: Enlarged GB containing thick, viscid or blackish bile; extremely translucent intestinal wall like tissue paper; all internal organs atrophied except brain).*\n\n**Guide Book Page:** Page 377 (also summarized on Page 379)"
+        },
+        {
+          "no": "07",
+          "text": "What are the differences between burn and scald?",
+          "marks": "05",
+          "answerMarkdown": "**Difference between dry heat (burn) and moist heat (scald) injury:**\n\n| Feature | Burn | Scald |\n| :--- | :--- | :--- |\n| **Cause** | Flame, hot metal | Boiling water, milk, oil etc. |\n| **Site** | At or above site of contact | At or below site of contact |\n| **Skin appearance** | Reddening, blister formation, charring and blackening | Reddening, blister formation, sodden and bleached |\n| **Depth** | Often deep to skin or more deep | Usually less |\n| **Singeing of hair** | Present | Absent |\n| **Splashing** | Absent | Present |\n| **Scar** | Thick | Thin |\n| **Contracture** | Common | Not common |\n| **Clothes** | Burnt | Not burnt |\n| **Healing** | Delayed | Comparatively early |\n| **Fatality** | More fatal | Less fatal |\n| **ML aspects** | Suicidal, accidental, rarely homicidal | Usually accidental, occasionally homicidal |\n\n**Guide Book Page:** Page 347"
+        },
+        {
+          "no": "08",
+          "text": "What are the differences between fee sharing & fee splitting?",
+          "marks": "05",
+          "answerMarkdown": "**Difference between fee-sharing and fee-splitting:**\n\n| Feature | Fee-sharing | Fee-splitting / dichotomy |\n| :--- | :--- | :--- |\n| **Definition** | Sharing of fee among surgeon, assistants, nurses and bearers | Receiving or giving commission or other benefits to a colleague or manufacturer |\n| **Ethics** | Ethical | Unethical |\n| **Punishment** | No punishment | Warning or erasure of name |\n\n* **Fee sharing:** Sharing of fees generally received in an operation among surgeon, his/her assistants, nurses and bearers, especially in private clinics, is called fee-sharing. It is ethical and does not constitute professional infamous conduct.\n* **Fee-splitting (Dichotomy):** Receiving or giving commission or other benefits to a colleague or manufacturer or trader in drugs or appliances or a chemist or a dentist etc. It is unethical and constitutes professional infamous conduct (PIC).\n\n**Guide Book Page:** Page 62 & Page 63"
+        }
+      ]
+    },
+    {
+      "name": "Problem based",
+      "questions": [
+        {
+          "no": "09",
+          "text": "When leading question is allowed during examination in chief part of deposition in the Court of Law? Who examine the witness?",
+          "marks": "05",
+          "answerMarkdown": "* **Who examines the witness in examination-in-chief?**\n  * Examination-in-chief is conducted by the **lawyer for the side which has summoned him**.\n\n* **When leading question is allowed during examination-in-chief?**\n  * Leading questions are allowed with the permission of the court under the following circumstances:\n    1. While making introductory remarks / presenting undisputed matters (e.g., when name, occupation etc. of witness are asked).\n    2. While presenting identification facts (when attention of witness is drawn for identifying person or thing).\n    3. To assert memory.\n    4. While giving contradictions.\n    5. When a witness is declared as a hostile witness.\n\n**Guide Book Page:** Page 26 & Page 28"
+        },
+        {
+          "no": "10",
+          "text": "From what findings of entry wound you can say that it is of near shot range of rifled firearm injury?",
+          "marks": "05",
+          "answerMarkdown": "**Findings of Entrance Wound in Near Range (up to 1 m) of Rifled-Weapon:**\n1. **Circular hole with abrasion collar** (marginal abrasion due to rubbing of the gyrating body of the bullet against inverted epidermis and heat of bullet).\n2. **Absence of burning, soiling, burnt hair or carbon monoxide in tissues** (distinguishing it from contact and close range shots of 5–8 cm).\n\n*(Contextual comparison of ranges according to the Guide Book):*\n* **Close range (5–8 cm):** Circular hole with abrasion collar, flame burn on surrounding skin and hairs, soot (carbon particles) and smoke soiling, and unburnt propellant flakes.\n* **Near range (up to 1 m):** Circular hole with abrasion collar; **no burning, soiling, burnt hair or monoxide**.\n* **Distant range (>1 m):** Smaller, irregular hole with irregular abrasion collar; no other features.\n\n**Guide Book Page:** Page 275 (also see Page 273 & Page 274)"
+        }
+      ]
+    }
+  ]
+}
