@@ -589,7 +589,15 @@ function App() {
             </div>
             <div className="credits-modal-content">
               <p className="credit-line">
-                by <strong>Muhammad Naim</strong>
+                by{" "}
+                <a
+                  href="https://mohammad-naimb.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="credit-author-link"
+                >
+                  Muhammad Naim
+                </a>
               </p>
               <p className="credit-line-sub">
                 using <strong>Google's NotebookLM</strong> &amp; <strong>Concept Guide</strong>
