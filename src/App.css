@@ -841,7 +841,7 @@
 .app-wrapper {
   width: 100%;
   min-height: 100vh;
-  padding-bottom: 48px; /* Space for the slim bottom navigation */
+  padding-bottom: 64px; /* Space for the slim bottom navigation */
   display: flex;
   flex-direction: column;
   align-items: center;
