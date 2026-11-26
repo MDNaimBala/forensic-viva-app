@@ -1,0 +1,1547 @@
+[
+  {
+    "id": "ch01",
+    "num": 1,
+    "title": "Forensic Medicine & Medical Jurisprudence",
+    "question_count": 9,
+    "questions": [
+      {
+        "question": "What do you know about medical jurisprudence? What is the meaning of the term and its scope?",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 7 & 8*",
+        "answer": "**Medical Jurisprudence:** *(juris = law; prudential = knowledge)*.  \nMedical jurisprudence is the science that deals with the application of rules and regulations for the guidance of medical professionals. It deals with the relationships which have legal consequences, e.g., doctor-doctor relationship, doctor-patient relationship, doctor-state relationship.  \n*Or,* Medical jurisprudence deals with legal responsibilities of physician/doctor with particular reference to those arising from physician-patient relationship/doctor-patient relationship, e.g., medical negligence cases, consent, rights and duties of doctors, serious professional misconduct, medical ethics, etc. In short, medical jurisprudence deals with legal aspects of practice of medicine.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch01_q01"
+      },
+      {
+        "question": "What range of clinical and medico-legal examinations are conducted in medical college hospitals?",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 4*",
+        "answer": "In medical college hospitals (under the scope of clinical forensic medicine), the following examinations are performed:  \n1. Examination of physical assault victim.  \n2. Examination of sexual assault victim.  \n3. Examination of suspected negligent victim.  \n4. Age determination.  \n5. Drunkenness and accidents.  \n6. Poisoning and burn cases.  \n7. Disputed paternity and maternity.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch01_q02"
+      },
+      {
+        "question": "Define Forensic Medicine. Name some branches of Forensic Medicine.",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 1, 2 & 3*",
+        "answer": "* **Definition of Forensic Medicine:** Forensic medicine is the science which deals with the application of medical knowledge to aid the administration of justice.  \n  *Or,* Forensic medicine deals with the medical aspect of law.  \n* **Branches of Forensic Medicine:** There are more than 30 branches; some key branches are:  \n  1. *Forensic Criminology:* Deals with crimes and criminals.  \n  2. *Forensic Pathology:* Deals with pathological principles to determine the cause and manner of death.  \n  3. *Forensic Toxicology:* Deals with the study of poisons.  \n  4. *Forensic Thanatology:* Deals with the medico-legal study of death and changes after death.  \n  5. *Forensic Ballistics:* Deals with firearms, ammunition, and problems arising from their use.  \n  6. *Forensic Odontology:* Deals with the science of dentistry to aid the administration of justice.  \n  7. *Forensic Dactylography:* Deals with the fingerprint system for identification.  \n  8. *Forensic Radiology:* Deals with the application of radiological techniques (X-ray, USG, CT, MRI) for legal purposes.  \n  9. *Forensic Osteology:* Deals with the study of bones for identification.  \n  10. *Forensic Serology & Seminology:* Deals with the examination of blood and seminal fluid stains.  \n  11. *Forensic Psychiatry:* Deals with the application of psychiatric knowledge for legal purposes.",
+        "source": "Photo Solution",
+        "q_num": "03",
+        "id": "ch01_q03"
+      },
+      {
+        "question": "What is the function of Clinical Forensic Medicine?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 3 & 4*",
+        "answer": "**Clinical Forensic Medicine:** Deals with living individuals on whom a medico-legal opinion is required.  \n**Functions / Areas of dealing:**  \n1. Examination of physical assault victims and documentation of injuries.  \n2. Examination of sexual assault victims (rape, sodomy) and accused persons.  \n3. Examination of victims of suspected medical negligence.  \n4. Determination of age for criminal responsibility, marriage, and employment.  \n5. Assessment of drunkenness and driving under the influence of alcohol or drugs.  \n6. Assessment of poisoning, burn cases, and domestic violence victims.  \n7. Evaluation of disputed paternity and maternity in living persons.",
+        "source": "Photo Solution",
+        "q_num": "04",
+        "id": "ch01_q04"
+      },
+      {
+        "question": "Define Forensic Toxicology, Forensic Odontology, Forensic Thanatology, and Forensic Dactylography.",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 3, 5, 7 & 121; Concept FM P-4, Page 541*",
+        "answer": "* **Forensic Toxicology:** Deals with the source, physical and chemical properties, pharmacological and toxic actions, signs and symptoms, fatal dose, fatal period, laboratory investigations, diagnosis, treatment, and medico-legal aspects of poisons.  \n* **Forensic Odontology:** Deals with the application of the science of dentistry to aid the administration of justice (e.g., age estimation from teeth, personal identification, and bite-mark analysis).  \n* **Forensic Thanatology:** *(Greek: thanatos = death, logos = study)* The subject which deals with the medico-legal study of death, the chemistry of death, and the conditions affecting dead bodies.  \n* **Forensic Dactylography:** The study and analysis of epidermal ridge impressions (fingerprints) on the fingertips for personal identification.",
+        "source": "Photo Solution",
+        "q_num": "05",
+        "id": "ch01_q05"
+      },
+      {
+        "question": "History of Forensic Medicine: Who is the Father of Legal Medicine? Who is the Father of Modern Toxicology?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 10*",
+        "answer": "* **Father of Legal Medicine (and Forensic Psychiatry):** **Paulus Zacchias** (1584–1659 AD), an Italian physician who was an expert before the Papal Court of Appeal (*Rota Romana*); his classic work was published in seven volumes entitled *Quaestiones Medico-Legales*.  \n* **Father of Modern Toxicology:** **Mathieu Orfila (Orphila)** (1787–1853 AD), Professor of Chemistry and Legal Medicine in Paris, who established toxicology as a distinct forensic discipline.",
+        "source": "Photo Solution",
+        "q_num": "06",
+        "id": "ch01_q06"
+      },
+      {
+        "question": "When and where was the first medico-legal autopsy performed?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 10; Concept FM P-2, Page 192*",
+        "answer": "The first documented medico-legal autopsy was performed by **Bartolomeo De Varignana** in **Bologna, Italy**, in the year **1302 AD** to investigate a case of suspected poisoning.",
+        "source": "Photo Solution",
+        "q_num": "07",
+        "id": "ch01_q07"
+      },
+      {
+        "question": "Name 5 famous codes / declarations in Medical Ethics.",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 10 & 50*",
+        "answer": "1. **The Hammurabi Code** (Babylon, c. 2200 BC — oldest legal/medico-legal code).  \n2. **The Hippocratic Oath** (c. 400 BC — foundation of medical ethics).  \n3. **The Declaration of Geneva** (1948, amended 2017 — modern version of Hippocratic Oath).  \n4. **The International Code of Medical Ethics** (London, 1949).  \n5. **The Nuremberg Code** (1947) / **Declaration of Helsinki** (1964 — ethical principles for human research).",
+        "source": "Photo Solution",
+        "q_num": "08",
+        "id": "ch01_q08"
+      },
+      {
+        "question": "Medical Ethics vs. Medical Etiquette: Which one is legally punishable?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 49, 57 & 58*",
+        "answer": "* **Medical Ethics:** Deals with the moral principles and rules of conduct that govern the professional behavior of doctors towards patients, society, the state, and colleagues.  \n* **Medical Etiquette:** Deals with the conventional rules of polite behavior, courtesy, and professional decorum that doctors observe among themselves (e.g., not criticizing a colleague in front of patients, paying courtesy visits).  \n* **Which one is punishable:** **Medical Ethics**. Breach of medical etiquette is not legally punishable. However, violation of medical ethics constitutes **Professional Misconduct / Professional Infamous Conduct (PIC)**, punishable by the disciplinary committee of the **BMDC** with warnings, suspension, or temporary/permanent erasure of name from the medical register (*Penal Erasure*).",
+        "source": "Photo Solution",
+        "q_num": "09",
+        "id": "ch01_q09"
+      }
+    ]
+  },
+  {
+    "id": "ch02",
+    "num": 2,
+    "title": "Legal Procedure & Courts",
+    "question_count": 11,
+    "questions": [
+      {
+        "question": "What is BPC and what is its purpose?",
+        "credit": "Lailatul Islam, Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 24*",
+        "answer": "**Penal Code (BPC):** Penal code describes various offences and with their punishments in the courts of law. Penal code in Bangladesh is known as **BPC (Bangladesh Penal Code)**.  \n*Examples:*  \n* What is murder? What should be punishment of murder?   \n* What is rape? What should be punishment of rape?",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch02_q01"
+      },
+      {
+        "question": "What is CrPC and what is its role?",
+        "credit": "Lailatul Islam, Mehnaj Mahi",
+        "page_ref": "*Concept FM P-1, Page 24*",
+        "answer": "**Criminal Procedure Code (CrPC):** Criminal procedure code (CrPC) deals with procedure of investigation and trial of offences. It deals with police duties in arresting offenders, dealing with absconders, in production of documents, etc., and in investigating offences. It provides for different class of Courts. It deals with actual procedure in trials, appeals, references, revisions, and transfer of criminal cases.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch02_q02"
+      },
+      {
+        "question": "What is the hierarchy and jurisdiction/powers of Criminal Courts in Bangladesh?",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 22 & 23*",
+        "answer": "**Hierarchy and Powers of Criminal Courts in Bangladesh:**  \n1. **Supreme Court:**  \n   * *Appellate Division:* Can consider criminal appeal cases; all appeal cases come after being dealt by High Court Division.  \n   * *High Court Division:* Can deal any case; can award any punishment provided in BPC; death sentence must be approved by High Court passed in lower court.  \n2. **Session and Judge Court:**  \n   * *District Session and Judge Court:* Can deal any case; can award any punishment provided in BPC; can give death sentence but it must be approved by High Court.  \n   * *Additional District and Session Judge Court:* Can deal any case; can award any punishment provided in BPC; can give death sentence but it must be approved by High Court.  \n   * *Assistant District Session and Judge Court:* Can deal any civil case; can’t give death sentence; can give imprisonment up to 10 yrs.  \n3. **Magistrate Court:**  \n   * *First Class Magistrate Court:* Can deal criminal cases only; can give imprisonment up to 5 years including solitary confinement and fine up to 10 thousand taka; can't give death sentence.  \n   * *Second Class Magistrate Court:* Can deal criminal cases only; can give imprisonment up to 3 years and fine up to 5 thousand taka; can't give death sentence.  \n   * *Third Class Magistrate Court:* Can deal criminal cases only; can give imprisonment up to 2 years and fine up to 2 thousand taka; can't give death sentence.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch02_q03"
+      },
+      {
+        "question": "Which court awards death sentences? What is the highest court in Bangladesh?",
+        "credit": "Sathi",
+        "page_ref": "*Concept FM P-1, Page 20, 22 & 23*",
+        "answer": "* **Which court awards death sentences:** Death sentence is awarded by the **Sessions Judge Court / District and Additional District Session Judge Court**. However, a death sentence passed by lower courts must be approved by the **High Court Division** before execution. The Supreme Court hears appeals from High Court decisions.  \n* **Highest Court in Bangladesh:** **Supreme Court of Bangladesh** (comprising Appellate Division and High Court Division).",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch02_q04"
+      },
+      {
+        "question": "What are the prerequisites for starting a medico-legal postmortem examination?",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-1, Page 4, 9; Concept FM P-2, Page 155–158*",
+        "answer": "**Prerequisites of Medico-Legal Autopsy:**  \n1. Requisition from the competent authority (Police or Magistrate).  \n2. Inquest report.  \n3. Dead body challan.  \n4. Proper identification of the dead body by police constable/escort and relatives.  \n5. Completely filled-up bed-head ticket/hospital records in case of hospital deaths.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch02_q05"
+      },
+      {
+        "question": "What is the official police dead body dispatch form/challan number?",
+        "credit": "Meem",
+        "page_ref": "",
+        "answer": "**Bangladesh Form No. 5371** (Dead Body Challan).  \n\n**Additional Information (Not Found in Guide Book):**  \n*The specific statutory form number \"Bangladesh Form No. 5371\" is an official police administration form designation in Bangladesh police regulations, tested directly by examiners during viva, though the Guide Book references it generically as \"Challan / Police Challan\".*",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch02_q06"
+      },
+      {
+        "question": "How many inquest witnesses (panchas) are required?",
+        "credit": "Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 13 & 43*",
+        "answer": "Inquest requires an uneven number of respectable witnesses, usually **2 to 3** witnesses (or 2 or more respectable inhabitants of the neighborhood).",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch02_q07"
+      },
+      {
+        "question": "Classification of witnesses: Common Witness vs. Expert Witness.",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 9, 26 & 41*",
+        "answer": "* **Common Witness (Witness of Fact):** A person who gives evidence about facts that he saw, heard, or perceived by his senses.  \n* **Expert Witness:** A person who has been specially trained or skilled in a particular branch of science, art, or profession, and is called to give an opinion based on facts observed by himself or proved by others (e.g., Doctor, Chemical Examiner, Ballistic Expert, Fingerprint Expert).",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch02_q08"
+      },
+      {
+        "question": "When is a leading question allowed during Examination-in-Chief in court? Give a real-world example of using leading questions for \"Identification Facts\".",
+        "credit": "Afrin Tabassum",
+        "page_ref": "*Concept FM P-1, Page 27 & 42*",
+        "answer": "**Leading Question:** A question that suggests the answer which the examining person wishes to receive.  \nLeading questions are generally not permitted during Examination-in-Chief except with the permission of the court:  \n1. On introductory or undisputed matters.  \n2. Regarding matters that have already been sufficiently proved.  \n3. For the purpose of **identification** of a person or object (e.g., pointing towards a weapon and asking: *\"Is this the weapon you examined?\"* or pointing towards the accused and asking: *\"Is this the person you examined for injuries?\"*).  \n4. When a witness turns hostile (with permission of the court).",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch02_q09"
+      },
+      {
+        "question": "What are the specific objectives of cross-examination in court?",
+        "credit": "Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 26 & 43*",
+        "answer": "**Objectives of Cross-Examination:**  \n1. To elicit facts favorable to the cross-examining party.  \n2. To test the accuracy, veracity, or credibility of the witness.  \n3. To discover who the witness is and what is his position in life.  \n4. To shake the witness's credit by injuring his character.  \n5. To detect and expose any bias, discrepancies, errors, or untruths in the evidence given in chief.",
+        "source": "54 Batch",
+        "q_num": "10",
+        "id": "ch02_q10"
+      },
+      {
+        "question": "What are the differences between Dying Declaration and Dying Deposition? What are the parts of a dying declaration?",
+        "credit": "Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 38 & 39*",
+        "answer": "**Differences between Dying Declaration and Dying Deposition:** \n\n| Feature | Dying Declaration | Dying Deposition |\n|:--- |:--- |:--- |\n| **Statement** | Made to any one (magistrate, doctor or any other person)  | Made to magistrate  |\n| **Oath** | Not necessary  | Necessary  |\n| **Accused or his lawyer** | Not present  | Present  |\n| **Cross-examination** | Nil  | Permitted  |\n| **Leading question** | Not permitted  | Permitted  |\n| **Value** | Less  | More  |\n| **Admissibility if declarant survives** | Not admitted, but has corroborative value  | Fully admitted  |\n| **Role of doctor** | (1) Assess compos mentis, (2) Recording of statement in absence of magistrate  | Assess compos mentis  |\n| **Status in BD** | Followed  | Not followed  |\n\n**Parts of a Dying Declaration:**  \n1. *Preamble:* Date, time, place, name, address of declarant, presence of persons, and doctor's certificate of compos mentis.  \n2. *Body:* The exact words of the victim regarding the circumstances leading to death, recorded without leading questions.  \n3. *Conclusion:* Verification that the statement was read over to the declarant and acknowledged, followed by signature/left thumb impression of declarant, signatures of witnesses, doctor, and recorder.",
+        "source": "54 Batch",
+        "q_num": "11",
+        "id": "ch02_q11"
+      }
+    ]
+  },
+  {
+    "id": "ch03",
+    "num": 3,
+    "title": "Ethics in Medical Practice & Doctor-Patient Relationship",
+    "question_count": 8,
+    "questions": [
+      {
+        "question": "Prerequisites and procedure to obtain BMDC registration. Who confers the MBBS degree vs. who issues registration?",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-1, Page 51 & 54*",
+        "answer": "* **Conferring Authority:** MBBS degree is given by **Universities** (e.g., DU, RU, RMU, CU, CMU, SUST, BSFMMU, BUP). Registration to newly passed MBBS doctors is given by **BMDC**.  \n* **Requirements for BMDC Registration:**   \n  1. MBBS original certificate together with photocopy.  \n  2. Original internship training certificate together with photocopy.  \n  3. Provisional registration certificate to be surrendered.  \n  4. Full registration fee to be paid by bank draft/pay order, payable to BMDC.  \n  5. Two copies passport size photograph attested by principal of respective medical college.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch03_q01"
+      },
+      {
+        "question": "What is the error on the Geneva Declaration plaque by the auditorium stairs?",
+        "credit": "Sumaiya",
+        "page_ref": "*Concept FM P-1, Page 50 & 51*",
+        "answer": "**Error noted:** The plaque is mistakenly inscribed with 10 points (which reflects the original 1948 Declaration of Geneva), whereas the modernized amended Declaration of Geneva contains **13 promises** (amended in 2017).",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch03_q02"
+      },
+      {
+        "question": "What is the opposite of professional secrecy? Define Privileged Communication.",
+        "credit": "Afrin Tabassum",
+        "page_ref": "*Concept FM P-1, Page 64 & 65*",
+        "answer": "The opposite / exception of professional secrecy is **Privileged Communication**.  \n**Privileged Communication:** Privileged communication is a statement made bonafide upon any subject matter by a doctor to the concerned authorities, due to his duty to protect the interest of the community or the state.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch03_q03"
+      },
+      {
+        "question": "What are the differences between Fee Sharing and Fee Splitting (Dichotomy)?",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 63*",
+        "answer": "**Differences between Fee-Sharing and Fee-Splitting:** \n\n| Feature | Fee-Sharing | Fee-Splitting / Dichotomy |\n|:--- |:--- |:--- |\n| **Definition** | Sharing of fee among surgeon, assistants, nurses and bearers  | Receiving or giving commission or other benefits to a colleague or manufacturer  |\n| **Ethics** | Ethical  | Unethical  |\n| **Punishment** | No punishment  | Warning or erasure of name (PIC)  |",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch03_q04"
+      },
+      {
+        "question": "Malingering scenario: A healthy patient feigns illness demanding a medical certificate. What will you do? What if you are offered a bribe?",
+        "credit": "Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-1, Page 60, 61 & 74*",
+        "answer": "* **Malingering:** Conscious, planned feigning or pretending a disease for the sake of gain.  \n* **Management:** The doctor must conduct a thorough physical examination and relevant investigations. If the person is found completely healthy, the doctor must **refuse** to issue a false certificate.  \n* **Bribe situation:** Accepting money or gifts to issue a false certificate constitutes **Professional Infamous Conduct (PIC)**. The doctor must ethically decline the bribe and record findings truthfully in accordance with professional ethics.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch03_q05"
+      },
+      {
+        "question": "Define Consent. What are its types? Mention the emergency doctrine (waiver of consent).",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 65, 66 & 81*",
+        "answer": "**Consent:** Free, valid, voluntary agreement, approval or permission for compliance of some act.  \n**Types of Consent:**  \n1. Implied consent.  \n2. Expressed consent: (a) Oral, (b) Written.  \n3. Informed consent.  \n4. Proxy / Substitute consent.  \n5. Blanket consent.  \n6. Presumed consent.  \n**Emergency Doctrine:** In life-threatening emergencies requiring immediate operation or resuscitation to save life or limb, when the patient is unconscious or unable to give consent and no legal guardian is available, consent is not obligatory / waived.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch03_q06"
+      },
+      {
+        "question": "What is an example of implied written consent?",
+        "credit": "Samia 66",
+        "page_ref": "*Concept FM P-1, Page 65*",
+        "answer": "**Implied Written Consent:** An act where the patient, without explicitly signing an operational consent clause, signs or fills out an admission form, diagnostic proforma, or prescription card, implicitly giving consent for routine clinical examination, history taking, and standard non-invasive diagnostic investigations.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch03_q07"
+      },
+      {
+        "question": "How do you take consent for examining a female rape victim? What type of consent is it?",
+        "credit": "Samia 66, Lailatul Islam, Rubaiat Rahman, Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 4 & 80; Concept FM P-3, Page 435–437*",
+        "answer": "* **Type of Consent:** **Informed written consent**.  \n* **Procedure:** The examination must be explained to the victim (or legal guardian if minor/insane) in simple, understandable Bengali:  \n  * *\"আপনার স্বাস্থ্য ও শরীরের আঘাত পরীক্ষার জন্য এবং আইনি প্রমাণের নমুনা সংগ্রহের জন্য এই পরীক্ষা প্রয়োজন। আপনি চাইলে পরীক্ষায় সম্মতি দিতে পারেন বা যেকোনো সময় তা প্রত্যাখ্যান করতে পারেন।\"*  \n* The consent must specify that clothing, physical body, genitalia, and swabs will be examined and collected for legal evidence, taken in the presence of a female nurse/attendant.  \n\n*(Reached maximum single response length. Say **\"next\"** to continue directly with Chapter 4: Identification, Chapter 5: Thanatology, Chapter 6: Post-Mortem Changes, and subsequent chapters without skipping any question.)*\n\nnext\n\n# Raw Viva Questions (54 Batch) — Solved Strictly from Concept Guide (Batch 2)",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch03_q08"
+      }
+    ]
+  },
+  {
+    "id": "ch04",
+    "num": 4,
+    "title": "Identification (Forensic Anthropology & Biology)",
+    "question_count": 10,
+    "questions": [
+      {
+        "question": "Inspection of the candidate's own fingertip pattern: What is your fingerprint pattern?",
+        "credit": "Md. Habibur Rahman, Rashid",
+        "page_ref": "*Concept FM P-1, Page 122*",
+        "answer": "The candidate should answer **\"Loop\"**.  \n**Reason:** Loops are the most common primary pattern of fingerprints, constituting approximately **67%** (about two-thirds) of all fingerprint patterns in the human population.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch04_q01"
+      },
+      {
+        "question": "When do epidermal ridges develop intra-uterine?",
+        "credit": "Rashid",
+        "page_ref": "*Concept FM P-1, Page 123*",
+        "answer": "Ridge patterns appear between **12–16 weeks** of Intra-Uterine life, and are completely formed by **24 weeks** of Intra-Uterine life.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch04_q02"
+      },
+      {
+        "question": "What is the mathematical probability of two random persons possessing identical fingerprints?",
+        "credit": "Rashid",
+        "page_ref": "*Concept FM P-1, Page 121 & 123*",
+        "answer": "According to Quetelet's rule and Galton's calculation, the chance of similarity of two fingerprints is **one in sixty-four (64) billion**.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch04_q03"
+      },
+      {
+        "question": "Write down the differences between temporary and permanent teeth.",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-1, Page 108*",
+        "answer": "**Differences between temporary and permanent teeth:** \n\n| Feature | Temporary teeth | Permanent teeth |\n|:--- |:--- |:--- |\n| **Size and weight** | Smaller and lighter | Larger and heavier |\n| **Color** | China white | Ivory white |\n| **Incisors** | Vertical | Slightly projected forwards |\n| **Neck** | More constricted | Less constricted |\n| **Ridge** | Present between neck and body | No ridge |\n| **Root of molars** | Smaller and more divergent | Longer and less divergent |\n| **Replacement by** | Permanent teeth | Not replaced |\n| **Total number** | 20 | 32 |\n| **Types** | No premolars, 8 molars | 8 premolars and 12 molars |",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch04_q04"
+      },
+      {
+        "question": "\"I am an adult; do I have all 32 teeth? If not, why?\"",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-1, Page 108–111*",
+        "answer": "An adult may not possess all 32 teeth.  \n**Reasons:**  \n1. Non-eruption or delayed eruption of the 3rd molars (wisdom teeth), which normally erupt between 17–25 years or even later.  \n2. Impacted teeth (especially 3rd molars).  \n3. Congenital absence or faulty development of tooth germs.  \n4. Extraction or loss of teeth due to dental caries, periodontal disease, or trauma.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch04_q05"
+      },
+      {
+        "question": "How many teeth are present in a 16-year-old? What is the alternative name for the 3rd molar? Do all 4 wisdom teeth erupt in every individual?",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 109 & 136*",
+        "answer": "* **Number of teeth at 16 years:** **28 permanent teeth** are present (all permanent teeth have erupted except the four 3rd molars).  \n* **Alternative name for 3rd molar:** **Wisdom tooth**.  \n* **Do all 4 wisdom teeth erupt in everyone?** No; they may remain impacted, fail to erupt, be congenitally missing, or erupt irregularly beyond 17–25 years of age.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch04_q06"
+      },
+      {
+        "question": "If a human hair is burnt, how does the burnt end feel and look?",
+        "credit": "Ashraful",
+        "page_ref": "*Concept FM P-1, Page 118; Concept FM P-2, Page 274*",
+        "answer": "When human hair is burnt by fire, the hair shaft shows singeing. The burnt end becomes **curled, twisted, and swollen**, and upon palpation, it feels clubbed or bulbous, resembling the club shape in playing cards.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch04_q07"
+      },
+      {
+        "question": "What are the components/parameters of personal identification?",
+        "credit": "",
+        "page_ref": "*Concept FM P-1, Page 88 & 89*",
+        "answer": "The parameters utilized to establish identity are:  \n1. Race and nationality.  \n2. Sex.  \n3. Age.  \n4. Stature (height).  \n5. Weight and general development.  \n6. Fingerprints (Dactylography) and Footprints.  \n7. Dental characteristics (Odontology).  \n8. Scars, tattoos, moles, and callosities.  \n9. Deformities and congenital peculiarities.  \n10. Hair and blood groups / DNA profiling.",
+        "source": "Photo Solution",
+        "q_num": "08",
+        "id": "ch04_q08"
+      },
+      {
+        "question": "What is the absolute easiest and surest method of personal identification?",
+        "credit": "",
+        "page_ref": "*Concept FM P-1, Page 121 & 123*",
+        "answer": "**Dactylography (Fingerprint examination)**.  \nIt is permanent, unalterable from 24 weeks of intrauterine life until decomposition, universal, easily classified, and no two individuals (even identical monozygotic twins) possess identical ridge patterns (probability of duplication is 1 in 64 billion).",
+        "source": "Photo Solution",
+        "q_num": "09",
+        "id": "ch04_q09"
+      },
+      {
+        "question": "In which medico-legal situations are photographs used/required?",
+        "credit": "",
+        "page_ref": "*Concept FM P-1, Page 133 & 134*",
+        "answer": "Photographs are required in:  \n1. Unidentified/unknown bodies (in road traffic accidents, train disasters, explosions).  \n2. Decomposed, charred, or skeletonized remains.  \n3. Rape victims and accused persons.  \n4. Age determination cases.  \n5. Custodial deaths.  \n6. Murder and criminal scene investigations.",
+        "source": "Photo Solution",
+        "q_num": "10",
+        "id": "ch04_q10"
+      }
+    ]
+  },
+  {
+    "id": "ch05",
+    "num": 5,
+    "title": "Death with Apparent Death (Thanatology)",
+    "question_count": 5,
+    "questions": [
+      {
+        "question": "Medical classifications of death: Distinguish between cortical death, brainstem death, and whole-brain death. Why do clinicians differentiate them?",
+        "credit": "Mahia Rahman",
+        "page_ref": "*Concept FM P-1, Page 142 & 145*",
+        "answer": "**1. Cortical/Cerebral Death:** Permanent cessation of function of the cerebral cortex with an intact brain stem. It produces a persistent vegetative state (PVS) where respiration and circulation continue spontaneously, but there is total loss of power of perception and cognition.  \n**2. Brainstem Death:** Cerebrum may be intact but is functionally cut off by a stem lesion. There is permanent damage to the vital centers of respiration and the ascending reticular activating system (RAS), causing the victim to be irreversibly comatose and incapable of spontaneous breathing.  \n**3. Whole-Brain Death:** Permanent, irreversible cessation of function of the entire brain, including the cerebrum, cerebellum, and brain stem.  \n\n**Why clinicians differentiate them:**  \n* **Declaration and certification of death:** Brainstem death is legally recognized as somatic death, permitting a death certificate to be issued.  \n* **Organ transplantation:** Living cadaver organs (heart, liver, kidneys, lungs) can only be retrieved while circulation is artificially maintained before whole-body biological collapse.  \n* **Withdrawal of life-support:** To legally and ethically decide when to discontinue mechanical ventilation.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch05_q01"
+      },
+      {
+        "question": "Define Sudden Death. What are its cardiovascular, respiratory, and cerebral causes?",
+        "credit": "Lailatul Islam",
+        "page_ref": "*Concept FM P-1, Page 151 & 152*",
+        "answer": "**Definition:** Sudden death is a death which is not known to have been caused by any trauma, poisoning, or violent asphyxia, and where death occurs all on a sudden or within 24 hours of the onset of terminal symptoms.  \n\n**Causes of Sudden Death:**  \n* **A. Cardiovascular (45%):**   \n  1. Atherosclerosis of coronary arteries (narrowing >75%) / Coronary thrombosis.  \n  2. Acute myocardial infarction (MI).  \n  3. Hypertensive heart disease / Concentric left ventricular hypertrophy.  \n  4. Rupture of aortic aneurysm.  \n  5. Rheumatic and congenital heart disease.  \n* **B. Respiratory (20%):**   \n  1. Massive pulmonary embolism.  \n  2. Acute edema of glottis.  \n  3. Lobar pneumonia, bronchopneumonia.  \n  4. Foreign body impacted in respiratory passage.  \n  5. Air embolism.  \n* **C. Central Nervous System (15%):**   \n  1. Intracranial hemorrhage (subarachnoid, intracerebral).  \n  2. Cerebral thrombosis and infarction.  \n  3. Ruptured berry aneurysm.  \n  4. Meningitis and encephalitis.  \n  5. Epilepsy.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch05_q02"
+      },
+      {
+        "question": "Mention 4 causes of death due to mechanical wounds.",
+        "credit": "Sumaiya",
+        "page_ref": "*Concept FM P-1, Page 147; Concept FM P-2, Page 226, 246 & 297*",
+        "answer": "The four principal causes of death due to mechanical wounds are:  \n1. **Hemorrhage leading to hypovolemic shock:** Excessive loss of blood from damaged blood vessels.  \n2. **Neurogenic shock (Primary shock):** Extensive stimulation of sensory somatic nerve endings producing sudden reflex circulatory collapse.  \n3. **Damage to vital organs:** Direct physical disruption of vital structures such as brain, heart, or lungs.  \n4. **Reflex vagal inhibition:** Sudden cardiac arrest caused by reflex stimulation of the vagus nerve (e.g., blows to larynx, carotid sinus, or epigastrium).",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch05_q03"
+      },
+      {
+        "question": "Define Suspended Animation. Mention its other names and clinical conditions producing it.",
+        "credit": "Sirat Ma'am",
+        "page_ref": "*Concept FM P-1, Page 140*",
+        "answer": "* **Definition:** Suspended animation (apparent death) is a clinical condition in which the signs of life (respiration, heart action, circulation) are not readily detectable by ordinary clinical examination, but life continues and the victim can be resuscitated.  \n* **Other Names:** Apparent death.  \n* **Conditions producing Suspended Animation:**  \n  1. Newborn infants (asphyxia neonatorum).  \n  2. Severe hypothermia (freezing cold exposure).  \n  3. Electric shock and lightning strike.  \n  4. Near-drowning.  \n  5. Poisoning by CNS depressants (barbiturates, opioids).  \n  6. Severe sunstroke and prolonged voluntary control (e.g., yogis).",
+        "source": "Photo Solution",
+        "q_num": "04",
+        "id": "ch05_q04"
+      },
+      {
+        "question": "What are Somatic Death, Molecular Death, Cause of Death, Manner of Death, and Mode of Death?",
+        "credit": "Sirat Ma'am",
+        "page_ref": "*Concept FM P-1, Page 138, 139 & 148*",
+        "answer": "* **Somatic / Systemic Death:** Irreversible cessation of the vital triad (*Bishop’s Tripod of Life* — nervous system, circulatory system, and respiratory system).  \n* **Molecular / Cellular Death:** Death of individual cells and tissues following somatic death, occurring 1 to 4 hours later when cells deplete ATP and cellular irritability stops.  \n* **Cause of Death:** The underlying injury, disease, or toxic condition that directly initiates the lethal physiological derangement (e.g., stab wound lacerating heart, lobar pneumonia, cyanide poisoning).  \n* **Manner of Death:** The legal circumstance under which death occurred: **Natural, Accidental, Suicidal, Homicidal, or Undetermined**.  \n* **Mode of Death:** The physiological mechanism by which life ceases: **Coma** (nervous system failure), **Syncope** (circulatory failure), or **Asphyxia** (respiratory failure).",
+        "source": "Photo Solution",
+        "q_num": "05",
+        "id": "ch05_q05"
+      }
+    ]
+  },
+  {
+    "id": "ch06",
+    "num": 6,
+    "title": "Changes After Death",
+    "question_count": 8,
+    "questions": [
+      {
+        "question": "What are the synonyms and mechanism of formation of Post-Mortem Hypostasis (Lividity)?",
+        "credit": "M",
+        "page_ref": "*Concept FM P-1, Page 158*",
+        "answer": "* **Synonyms:** Post-mortem lividity, cadaveric lividity, post-mortem hypostasis, suggilation, vibices.  \n* **Mechanism:** After somatic death and cessation of circulation, blood becomes subject to gravity and drains into the capillaries and small venules in the lowest dependent, uncompressed parts of the body, producing reddish-purple or bluish-purple cutaneous discolorations.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch06_q01"
+      },
+      {
+        "question": "What is parchmentization? Where else does it occur on the body?",
+        "credit": "Aurisha",
+        "page_ref": "*Concept FM P-1, Page 142 & 166; Concept FM P-2, Page 298*",
+        "answer": "* **Definition:** Parchmentization is the drying, desiccation, hardening, and yellowish-brown leathery transformation of exposed, denuded dermal skin after death.  \n* **Where it occurs:** It occurs under the ligature mark in hanging, over dry abraded surfaces, on the dry mucous membrane of the lips, and on the skin of the **scrotum** and infant prepuce.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch06_q02"
+      },
+      {
+        "question": "How do you differentiate antemortem hanging from postmortem hanging based on parchmentization?",
+        "credit": "Md. Mahir Abrar",
+        "page_ref": "*Concept FM P-1, Page 142; Concept FM P-2, Page 298*",
+        "answer": "* **Antemortem hanging:** Parchmentization is present beneath the ligature mark, accompanied by vital reactions, a surrounding line of hyperemic redness/congestion, and ecchymoses in subcutaneous tissues beneath the groove.  \n* **Postmortem hanging:** Parchmentization may appear simply due to physical drying, but vital reaction, extravasation of blood, subcutaneous ecchymoses, and cellular inflammatory response are completely absent.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch06_q03"
+      },
+      {
+        "question": "Why might rigor mortis fail to commence or appear absent in a dead body?",
+        "credit": "Oyshe",
+        "page_ref": "*Concept FM P-1, Page 166 & 167*",
+        "answer": "Rigor mortis may fail to be observed or appear absent due to:  \n1. **Primary flaccidity stage:** The cadaver is examined too early (within 1–2 hours after death) before rigor mortis sets in.  \n2. **Cold/Freezing temperatures:** Extreme cold or freezing suspends chemical processes, postponing the onset of rigor mortis.  \n3. **Advanced putrefaction:** Rigor mortis has already broken down and passed off due to autolysis and liquefaction of muscle proteins (secondary flaccidity).  \n4. **Wasted muscles / Cachexia:** Severe emaciation, chronic wasting diseases, or severe malnutrition, where muscle glycogen and ATP reserves are negligible.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch06_q04"
+      },
+      {
+        "question": "Identification of inhomogeneous internal organs in the human body other than lungs.",
+        "credit": "Oyshe",
+        "page_ref": "",
+        "answer": "Inhomogeneous internal organs are organs whose parenchyma consists of non-uniform tissue structures, vascular compartments, or lobular divisions of variable density. Besides the **lungs**, other inhomogeneous organs include:  \n1. **Spleen** (composed of distinct white pulp lymphoid follicles and red pulp venous sinuses).  \n2. **Kidneys** (composed of heterogeneous outer cortex, medullary pyramids, and renal pelvis).  \n3. **Brain** (composed of grey matter nuclei and white matter tracts).  \n4. **Pancreas** (mixed exocrine acinar lobules and endocrine islets).  \n\n**Additional Information (Not Found in Guide Book):**  \n*The Concept Guide notes lungs specifically as inhomogeneous spongy organs when discussing docimasia tests, but this specific comparative anatomical classification was queried by Prof. Refayet Sir during viva.*",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch06_q05"
+      },
+      {
+        "question": "Putrefaction: Mention the stages and anatomical location where the first color change appears.",
+        "credit": "Ashraful",
+        "page_ref": "*Concept FM P-1, Page 177–181*",
+        "answer": "* **First color change:** A greenish discoloration appears over the **right iliac fossa** (overlying the caecum, where the gut is closest to the anterior abdominal wall and rich in bacteria and H₂S) in about 12–24 hours in summer (24–36 hours in winter).  \n* **Stages/Sequelae of Putrefaction:**  \n  1. *Stage of color changes:* Greenish discoloration of right iliac fossa spreading to entire abdomen, marbling of skin veins.  \n  2. *Stage of gas development:* Accumulation of putrefactive gases leading to bloating, protrusion of tongue and eyes, postmortem purge.  \n  3. *Stage of colliquative putrefaction:* Liquefaction and melting down of tissues (5–12 days).  \n  4. *Stage of skeletonization:* Soft tissues dissolve away, leaving bones, cartilage, and ligaments (1–3 months).",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch06_q06"
+      },
+      {
+        "question": "Environmental conditions where putrefaction, mummification, and adipocere formation can be observed simultaneously in the same cadaver.",
+        "credit": "Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 185–188*",
+        "answer": "These changes can occur simultaneously in a dead body exposed to **irregular, microclimatic environmental conditions** or uneven burial:  \n* A body lying partially immersed in stagnant water or wet soil while another portion is exposed to a warm, dry draft of air.  \n* For example, the dependent lower body and fatty buttocks immersed in wet marsh develop **adipocere**, the exposed limbs in hot dry moving air undergo **mummification**, and the unventilated abdominal viscera undergo bacterial **putrefaction**.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch06_q07"
+      },
+      {
+        "question": "What gases are evolved during putrefaction?",
+        "credit": "Rubaiat Rahman",
+        "page_ref": "*Concept FM P-1, Page 179*",
+        "answer": "The putrefactive gases include:  \n1. Hydrogen sulphide (H₂S).  \n2. Methane (CH₄).  \n3. Carbon dioxide (CO₂).  \n4. Ammonia (NH₃).  \n5. Phosphoretted hydrogen.  \n6. Carbon monoxide (CO) and hydrogen (H₂).",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch06_q08"
+      }
+    ]
+  },
+  {
+    "id": "ch07",
+    "num": 7,
+    "title": "Autopsy, Inquest & Exhumation",
+    "question_count": 22,
+    "questions": [
+      {
+        "question": "Is a death certificate mandatory before performing a medico-legal autopsy?",
+        "credit": "Oyshe",
+        "page_ref": "*Concept FM P-1, Page 12, 13 & 150*",
+        "answer": "**No**, a death certificate is **not mandatory** before a medico-legal autopsy, **except in hospital deaths**.  \nIn standard medico-legal deaths (unnatural, suspicious, or homicidal), the autopsy is initiated strictly upon receiving a **Police Requisition / Inquest Report** and **Dead Body Challan** issued by the police or magistrate.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch07_q01"
+      },
+      {
+        "question": "In which medico-legal cases are photographs mandatory?",
+        "credit": "Lailatul Islam, Oyshe",
+        "page_ref": "*Concept FM P-1, Page 133 & 134*",
+        "answer": "Photographs are required in:   \n1. Unidentified/unknown dead bodies (e.g., in RTAs or mass disasters).  \n2. Decomposed or mutilated dead bodies.  \n3. Custodial deaths.  \n4. Firearm wound and explosion fatalities.  \n5. Fatal burn cases.  \n6. Homicide and sexual assault crime scenes.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch07_q02"
+      },
+      {
+        "question": "What administrative/legal action occurs if an authorized doctor refuses to perform a requested medico-legal autopsy?",
+        "credit": "M",
+        "page_ref": "*Concept FM P-1, Page 24 & 25*",
+        "answer": "Refusal by an authorized government medical officer to perform a requested autopsy without valid legal justification constitutes a punishable offense:  \n1. **Disciplinary administrative action:** Suspension, departmental inquiry, and termination of service for dereliction of official duty.  \n2. **Penal action under BPC:** Liable to prosecution under **Section 176 BPC** (omission to give information/notice to a public servant by a person legally bound to do so) and **Section 187 BPC** (omission to assist a public servant when bound by law).",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch07_q03"
+      },
+      {
+        "question": "Mention the three structural components of a Post-Mortem Report.",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-1, Page 190–192; Concept FM P-2, Page 155–158*",
+        "answer": "The three main structural parts of a Post-Mortem Report are:  \n1. **Preamble:** Details of date, time, and place of autopsy; police station; FIR/Inquest number; names of police escort and relatives identifying the body.  \n2. **Body (Findings):**  \n   * *External examination:* Stature, build, identification marks, postmortem changes, detailed description of external injuries.  \n   * *Internal examination:* Systematic dissection and description of the three body cavities (cranial, thoracic, abdominal) and their viscera.  \n3. **Conclusion (Opinion):** The final medico-legal opinion regarding the cause and manner of death, stated to the best of the doctor's knowledge and belief.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch07_q04"
+      },
+      {
+        "question": "What are the 6 standard post-mortem skin incisions used in forensic autopsy?",
+        "credit": "Hafiza Arjuman Sayma",
+        "page_ref": "*Concept FM P-1, Page 193 & 194*",
+        "answer": "The standard post-mortem incisions are:  \n1. **I-shaped incision:** Midline incision extending from suprasternal notch (or symphysis menti) down to pubic symphysis, passing left to umbilicus.  \n2. **Y-shaped incision:** Begins at acromion processes bilaterally, runs below breasts to xiphoid process, and continues down the midline to pubic symphysis.  \n3. **Modified Y-shaped incision:** Begins behind mastoid processes, runs down anterior border of sternocleidomastoid muscles to suprasternal notch, then continues down the midline.  \n4. **T-shaped incision:** Transverse incision across shoulders from one acromion to another, intersecting a midline vertical incision down to pubis.  \n5. **Coronal incision (Scalp incision):** Bitemporal incision passing over the vertex behind the ears from mastoid to mastoid to expose the calvarium.  \n6. **Incision for back/spine:** Midline vertical incision from external occipital protuberance down along spinous processes to sacrum.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch07_q05"
+      },
+      {
+        "question": "Cranial autopsy: Demonstration of circular scalp incision, local vs. foreign dissection techniques, and instruments used to break/remove the calvarium.",
+        "credit": "Hafiza Arjuman Sayma, Rashid",
+        "page_ref": "*Concept FM P-1, Page 195 & 196*",
+        "answer": "* **Incision:** A coronal incision is made starting behind one ear at the mastoid process, carried across the vertex to the opposite mastoid process; the anterior scalp flap is reflected over the face and the posterior flap over the occiput.  \n* **Instruments:** The calvarium is cut with an **autopsy saw** (hand saw or oscillating electric saw) through the outer table, and separated using a **chisel and hammer** to avoid direct laceration of the underlying dura mater.  \n* **Local vs. Foreign technique:** In local mortuaries, a circular/transverse saw cut is placed horizontally around the circumference of the skull. In foreign centers, an angular or V-shaped cut (wedge cut) is made in the temporal region to prevent the calvarium from slipping during reconstruction.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch07_q06"
+      },
+      {
+        "question": "Which incision is made to open the meninges during skull autopsy?",
+        "credit": "Ashraful",
+        "page_ref": "*Concept FM P-1, Page 196*",
+        "answer": "A **cruciate incision** (cross-shaped incision) is made to open the dura mater and expose the cerebral hemispheres.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch07_q07"
+      },
+      {
+        "question": "Poisoning Autopsy Opinions: Why do doctors issue two opinions? Exact wording of Primary vs. Final opinion, and grammar/tense rules.",
+        "credit": "Sumaiya, Hafiza Arjuman Sayma, Md. Habibur Rahman, Oyshe, Nuha, Khondoker Rafid",
+        "page_ref": "*Concept FM P-1, Page 197 & 198; Concept FM P-2, Page 226; Concept FM P-5, Page 711*",
+        "answer": "* **Why two opinions:** Because autopsy findings in poisoning are often non-specific or inconclusive. The viscera and body fluids must be preserved and sent to the Forensic Chemical Examiner. Therefore, a provisional primary opinion is recorded, awaiting the chemical report.  \n* **Primary Opinion:** Issued immediately after completing autopsy:  \n  * *\"Opinion as to the cause of death is withheld pending receipt of the chemical examiner's report of the preserved viscera.\"*  \n* **Final Opinion:** Formulated in the **past tense** after correlating autopsy findings with the chemical examiner’s report:  \n  * *\"Considering the postmortem examination findings and the chemical analysis report of the preserved viscera, I am of the opinion that the deceased died of violent asphyxia / toxic effects resulting from [Name of Poison], which was antemortem in nature.\"*   \n* **If chemical analysis is negative:** The doctor issues a reasoned opinion based on pathognomonic external/internal autopsy findings and exclusion of natural disease:  \n  * *\"Considering the negative chemical report but characteristic pathological autopsy findings and clinical history, death was due to...\"* or records a **Negative Autopsy** if no lethal lesion exists.",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch07_q08"
+      },
+      {
+        "question": "What is a Negative Autopsy, and why does it occur?",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-1, Page 198 & 199*",
+        "answer": "**Definition:** A negative autopsy is one in which gross and microscopic examination, toxicological analysis, and laboratory investigations fail to reveal the cause of death.  \n**Causes of Negative Autopsy:**  \n1. Inadequate history or clinical records.  \n2. Vagal inhibition (reflex cardiac arrest) without structural lesions.  \n3. Early stages of myocardial ischemia before structural necrosis appears.  \n4. Functional cardiac arrhythmias (channelopathies, long QT syndrome).  \n5. Undetectable or rapidly metabolized poisons (e.g., insulin, plant toxins).  \n6. Improper autopsy technique or inexperience of the pathologist.",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch07_q09"
+      },
+      {
+        "question": "Cause of death opinion in Drowning.",
+        "credit": "Hafiza Arjuman Sayma",
+        "page_ref": "*Concept FM P-5, Page 711*",
+        "answer": "*\"Considering the autopsy (both external and internal) examination findings; I am of the opinion that the cause of death was due to violent asphyxia resulting from drowning which was ante-mortem in nature.\"*",
+        "source": "54 Batch",
+        "q_num": "10",
+        "id": "ch07_q10"
+      },
+      {
+        "question": "Fatal Air Embolism following cut throat: What autopsy findings will you see?",
+        "credit": "Sathi",
+        "page_ref": "*Concept FM P-2, Page 246 & 252*",
+        "answer": "In cut throat injuries involving deep jugular veins, air is sucked into the venous system.  \n**Autopsy findings:**  \n1. Cut edges of large neck veins remain open (uncollapsed) due to fascial tethering.  \n2. Opening the pericardial sac under water reveals air bubbles escaping from the punctured right ventricle or pulmonary trunk.  \n3. The right atrium and ventricle are distended with frothy, bubbly, churning blood.  \n4. Pallor of the lungs and visceral organs.",
+        "source": "54 Batch",
+        "q_num": "11",
+        "id": "ch07_q11"
+      },
+      {
+        "question": "Viscera preservation in mortuary: Procedure, indication and contraindication of Rectified Spirit, and preparation of saturated NaCl solution.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-1, Page 200 & 201*",
+        "answer": "* **Routine Preservative:** **Rectified spirit** is the standard preservative used for routine viscera collection.  \n* **Where Rectified Spirit is Contraindicated:**  \n  * Contraindicated in suspected poisoning by: **Alcohol (ethanol, methanol), chloral hydrate, chloroform, phosphorus, phenol, acetic acid, ether, and formalin**.  \n  * **Why:** Rectified spirit itself contains alcohol and will interfere with, alter, or invalidate chemical examination and quantitative analysis.  \n* **Preservative in contraindicated cases:** **Saturated solution of common salt (NaCl)**.  \n* **How to prepare saturated NaCl solution:** Add common salt (NaCl) to clean water with continuous stirring until salt crystals no longer dissolve and remain settled at the bottom of the container.",
+        "source": "54 Batch",
+        "q_num": "12",
+        "id": "ch07_q12"
+      },
+      {
+        "question": "Exhumation of a suspected arsenic death buried 15 years ago: How do you prove poisoning?",
+        "credit": "Afrin Tabassum",
+        "page_ref": "*Concept FM P-1, Page 203 & 204; Concept FM P-5, Page 614*",
+        "answer": "1. Arsenic resists putrefaction and is deposited in keratinized tissues (bones, hair, nails).  \n2. Collect remnant hair, nails, long bones, teeth, and liquefied soil from the coffin.  \n3. **Mandatory Control Sample:** Collect control soil samples from about 2–3 feet above, below, and a few yards away from the grave. This laboratory comparison proves that arsenic found in the corpse leached outward from the decomposing body and was not an inward contaminant from natural arsenical soil.  \n\n*(Batch 2 completed. Say **\"next\"** to proceed immediately to Batch 3: Mechanical Injuries & Wounds, Grievous Hurt scenarios, Ballistics, Asphyxia, Thermal/Electrical Injuries, Regional Trauma, Psychiatry, and Reproductive Jurisprudence.)*\n\nnext\n\n# Raw Viva Questions (54 Batch) — Solved Strictly from Concept Guide (Batch 3)",
+        "source": "54 Batch",
+        "q_num": "13",
+        "id": "ch07_q13"
+      },
+      {
+        "question": "Classify Autopsy. What is a Clinical Autopsy and give an example?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 192 & 193*",
+        "answer": "* **Classification of Autopsy:**  \n  1. **Medico-legal Autopsy:** Mandated by law in unnatural, suspicious, sudden, or unexplained deaths to determine the cause, manner, and circumstance of death.  \n  2. **Clinical / Pathological Autopsy:** Performed by pathologists or hospital clinicians on patients dying of natural diseases to confirm clinical diagnoses, study disease pathology, or evaluate medical/surgical treatment efficacy.  \n  3. **Academic / Anatomical Necropsy:** Performed by medical students on unclaimed cadavers to study normal human anatomy.  \n  4. **Special Types:** Negative autopsy, Obscure autopsy, Virtual autopsy (PMCT/PMMRI).  \n* **Example of Clinical Autopsy:** An autopsy performed on an inpatient treated for atypical pneumonia who suddenly collapsed, to determine whether death resulted from massive pulmonary embolism or myocardial infarction.",
+        "source": "Photo Solution",
+        "q_num": "14",
+        "id": "ch07_q14"
+      },
+      {
+        "question": "Who performs a Medico-Legal Autopsy? Who is an authorized person?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 22; Concept FM P-2, Page 192 & 211*",
+        "answer": "* **Performing Doctor:** Medico-legal autopsies in Bangladesh are performed by **government medical officers** (Professors, Associate/Assistant Professors, Lecturers of Forensic Medicine in Government Medical Colleges, or Civil Surgeons, Resident Medical Officers, and Upazila Health Complex Doctors).  \n* **Authorized Person:** A medical officer authorized by the Government under the Code of Criminal Procedure (CrPC). Private medical practitioners are **not authorized** to perform medico-legal autopsies unless specially deputed by the Government or District Magistrate.",
+        "source": "Photo Solution",
+        "q_num": "15",
+        "id": "ch07_q15"
+      },
+      {
+        "question": "What are the objectives of a Medico-Legal Autopsy?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 194*",
+        "answer": "1. To determine the real cause of death.  \n2. To determine the manner of death (suicidal, homicidal, accidental).  \n3. To establish the post-mortem interval (time since death).  \n4. To establish identity when unknown.  \n5. In newborns, to determine viability and live birth status.  \n6. To collect and preserve trace evidence and viscera for laboratory testing.",
+        "source": "Photo Solution",
+        "q_num": "16",
+        "id": "ch07_q16"
+      },
+      {
+        "question": "When can an autopsy be legally refused by an autopsy surgeon?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-1, Page 22; Concept FM P-2, Page 196*",
+        "answer": "An authorized autopsy surgeon can refuse to perform an autopsy only when:  \n1. Proper legal requisition is absent (no formal police inquest or magistrate order).  \n2. Requisite official papers (Dead Body Challan, Inquest Report) are missing or incomplete.  \n3. Discrepancy in dead body identification (the body brought does not match the description in the police challan/inquest).  \n4. Inadequate morgue facilities or extreme decay posing direct biosafety hazards without protective gear (postponed until rectified).",
+        "source": "Photo Solution",
+        "q_num": "17",
+        "id": "ch07_q17"
+      },
+      {
+        "question": "Incisions used in Autopsy: Which is best and why? Why is the umbilicus avoided in the midline I-incision?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 193 & 194*",
+        "answer": "* **Incisions:** I-incision, Y-incision, Modified Y-incision, T-incision, Coronal scalp incision.  \n* **Which is best and why:** The **I-incision** is the standard, best, and most universally practiced incision because it provides rapid, wide, and complete exposure of the neck organs, thorax, and abdominal cavity through a single continuous line.  \n* **Why avoid the umbilicus:** The midline vertical incision cuts straight down to about 2 cm above the umbilicus, skirts around the **left side of the umbilicus**, and resumes in the midline down to the pubic symphysis. The umbilicus is avoided because:  \n  1. It is a dense, fibrous, cicatricial remnant that is difficult to cut and suture neatly.  \n  2. The round ligament of the liver (*ligamentum teres hepatis*, obliterated umbilical vein) attaches to the right of the umbilicus; skirting to the left prevents accidental injury to abdominal wall vessels and underlying falciform attachments.",
+        "source": "Photo Solution",
+        "q_num": "18",
+        "id": "ch07_q18"
+      },
+      {
+        "question": "How is the coronal scalp incision made? How far is the scalp reflected forward and backward?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 195 & 196*",
+        "answer": "* **Procedure:** Part the hair over the vertex. Using a scalpel, make a coronal incision starting behind one ear at the **mastoid process**, carried vertically across the **vertex** of the skull to the opposite **mastoid process**.  \n* **Reflecting the flaps:**  \n  * The **anterior scalp flap** is peeled and reflected forward down to **1 to 2 cm above the supraorbital ridges (eyebrows)**, exposing the frontal bone while protecting the orbital margins.  \n  * The **posterior scalp flap** is reflected backward down to the **external occipital protuberance**, exposing the parietal and occipital bones.  \n* **Skull opening:** A circular saw cut is placed horizontally around the circumference of the calvarium using a hand saw or oscillating autopsy saw, followed by gentle separation using a skull chisel and hammer.",
+        "source": "Photo Solution",
+        "q_num": "19",
+        "id": "ch07_q19"
+      },
+      {
+        "question": "What is an Obscure Autopsy? How does it differ from a Negative Autopsy? Mention its causes.",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 198 & 205*",
+        "answer": "* **Negative Autopsy:** An autopsy where meticulous gross and microscopic dissection, toxicological analysis, and laboratory investigations **fail to reveal any structural, anatomical, or toxicological cause of death**.  \n* **Obscure Autopsy:** An autopsy where the pathological or toxicological findings are **vague, minimal, unconvincing, or difficult to interpret**, leaving the examiner unable to definitively state whether the lesion caused death or was incidental.  \n* **Causes of Obscure Autopsy:**  \n  1. Reflex vagal inhibition (death from shock after blunt blow to sensitive areas).  \n  2. Subtle electrolyte imbalance (e.g., hyperkalemia, hypokalemia).  \n  3. Undetectable plant or synthetic poisons, or delayed death where poison has been completely eliminated.  \n  4. Concealed trauma (blunt impact to cervical spine, subtle concussion).  \n  5. Early stages of myocardial ischemia before microscopic infarction changes develop.  \n  6. Air or fat embolism without visible gross obstruction.",
+        "source": "Photo Solution",
+        "q_num": "20",
+        "id": "ch07_q20"
+      },
+      {
+        "question": "Viscera collection: What viscera are preserved? Where are they sent, who takes them, and what preservatives are used?",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-2, Page 199, 200 & 211*",
+        "answer": "* **Viscera collected routinely:**  \n  1. Stomach and its entire contents.  \n  2. Upper 30 cm of small intestine and contents.  \n  3. Half a kilogram (500 g) of liver with gallbladder.  \n  4. Half of each kidney and the spleen.  \n  5. Blood (10–30 mL) and available urine.  \n* **Where sent:** Sent to the **Forensic Chemical Examiner / Government Chemical Examiner's Laboratory**.  \n* **Who takes them:** Transported under official sealed custody by the **police constable / police escort** who brought the dead body challan.  \n* **Preservatives used:**  \n  * *For toxicological chemical examination:* **Rectified spirit** (or **saturated common salt solution / NaCl** when alcohol, phosphorus, phenol, or chloral hydrate is suspected).  \n  * *For histopathological examination:* **10% Formalin (formol saline)**.",
+        "source": "Photo Solution",
+        "q_num": "21",
+        "id": "ch07_q21"
+      },
+      {
+        "question": "Define Artefacts. Classify them, give examples of resuscitative artefacts, and explain their misinterpretation.",
+        "credit": "Saify Sir",
+        "page_ref": "*Concept FM P-4, Page 515 & 516*",
+        "answer": "* **Definition of Artefact:** An artefact is any artificial change, structure, feature, or finding introduced into the body during life, at or after death, which did not exist naturally, and which may lead to incorrect interpretation of the cause, manner, or time of death.  \n* **Classification of Artefacts:**  \n  1. *Agonal / Terminal artefacts:* Vomit aspiration during agony.  \n  2. *Post-mortem artefacts:* Livor mortis, rigor mortis, putrefaction changes, animal bites (ants, rats, maggots).  \n  3. *Resuscitative artefacts:* Introduced during cardiopulmonary resuscitation (CPR).  \n  4. *Autopsy / Morgue artefacts:* Incisions, saw cuts, organ tearing during extraction.  \n  5. *Toxicological artefacts:* Contaminants in viscera bottles or preservative errors.  \n* **Examples of Resuscitative Artefacts:**  \n  * Fracture of ribs and sternum during external chest compressions.  \n  * Cardiac and pulmonary contusions from vigorous cardiac massage.  \n  * Needle puncture marks over the heart, cubital veins, or neck from intracardiac/intravenous emergency drug injections.  \n  * Circular or rectangular superficial burns/erythema on chest skin from defibrillator pads.  \n  * Mucosal tears of pharynx, larynx, or vocal cords from difficult endotracheal intubation.  \n* **Misinterpretation:** Resuscitative rib and sternal fractures can be **misinterpreted as homicidal blunt force assault or vehicular trauma**, and defibrillator electrical burns or injection marks can be **misinterpreted as physical torture or deliberate violence**.",
+        "source": "Photo Solution",
+        "q_num": "22",
+        "id": "ch07_q22"
+      }
+    ]
+  },
+  {
+    "id": "ch08",
+    "num": 8,
+    "title": "Weapons and Wounds",
+    "question_count": 5,
+    "questions": [
+      {
+        "question": "What is an abrasion? What are the criteria of a true abrasion?",
+        "credit": "Lailatul Islam",
+        "page_ref": "*Concept FM P-2, Page 217*",
+        "answer": "* **Definition:** Abrasion is damage or destruction of superficial epithelial covering of skin (epidermis) or mucous membrane, due to impact (mostly frictions) with hard, blunt and rough object or weapon. *Or,* Abrasion is temporary loss of superficial epithelial covering of skin (epidermis) or mucous membrane, due to forcible friction of body surface against hard, blunt and rough object or weapon.  \n* **Criteria/Characters of true abrasion:**  \n  1. Simple injury.  \n  2. Superficial injury.  \n  3. Bleed slightly / minimum bleeding.  \n  4. Formation of scab.  \n  5. Heal rapidly.  \n  6. Heal without forming permanent scar.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch08_q01"
+      },
+      {
+        "question": "What is an incised-looking wound? How do you confirm it using a magnifying glass? Mention its causative blunt weapons and underlying brain/cranial damage.",
+        "credit": "Afrin Tabassum, Nuha",
+        "page_ref": "*Concept FM P-2, Page 227, 231, 232 & 233*",
+        "answer": "* **Definition:** In some areas where skin is close to bone and subcutaneous tissues are scanty, split lacerations may appear clean-cut to the naked eye and may simulate incised wounds; these are known as **incised looking lacerated wounds**.  \n* **How to confirm with a magnifying glass:**  \n  * Margin will be uneven and irregular.  \n  * Hair bulbs are crushed (not cleanly cut).  \n  * Blood vessels and nerves are crushed, and tags of tissue / bridging fibers are seen across the floor.  \n* **Causative blunt weapons:** Hard, blunt weapons (e.g., lathi, bamboo stick, iron rod, brick, stone, roller) or falls on hard ground.  \n* **Underlying brain/cranial damage:** Fissured or depressed skull fractures, extradural hemorrhage, subdural hemorrhage, subarachnoid hemorrhage, cerebral contusion, and concussion.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch08_q02"
+      },
+      {
+        "question": "Why do incised wounds bleed more profusely than lacerations?",
+        "credit": "Ashraful",
+        "page_ref": "*Concept FM P-2, Page 228, 230 & 231*",
+        "answer": "In incised wounds, the blood vessels are **clean-cut** across by the sharp cutting edge, preventing retraction, crushing, and twisting of the vessel coats, so bleeding is free and profuse. In lacerated wounds, vessels are crushed and torn with irregular retraction and vasospasm, leading to less hemorrhage.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch08_q03"
+      },
+      {
+        "question": "How can you establish that a cut throat wound is suicidal? What will you find in the hand? Mention causes of death.",
+        "credit": "Sathi",
+        "page_ref": "*Concept FM P-2, Page 233, 234 & 246*",
+        "answer": "* **Proof of suicidal cut throat:**  \n  1. *Level:* High, above the thyroid cartilage.  \n  2. *Direction:* Above downwards and from left to right (in right-handed persons).  \n  3. *Hesitation/tentative cuts:* Multiple superficial cuts present at the commencement of the wound.  \n  4. *Tailing:* Present at the terminal end.  \n  5. *Carotid artery:* Usually escapes injury due to guarding by sternocleidomastoid muscle.  \n  6. *Defense wounds & struggle marks:* Completely absent.  \n  7. *Clothes:* Uncut and undamaged.  \n  8. *Circumstances:* Closed/secluded place, often in front of a mirror; suicidal note may be present.  \n* **Finding in the hand:** The weapon (razor, blade, or knife) firmly grasped in the hand due to **cadaveric spasm**.  \n* **Causes of death in cut throat:**  \n  1. Excessive hemorrhage leading to hypovolemic shock.  \n  2. Air embolism (due to opening of large neck veins).  \n  3. Asphyxia from inhalation/choking of effused blood into the respiratory passage.  \n  4. Reflex vagal inhibition (rare).  \n  5. Infection / septic complications (delayed).",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch08_q04"
+      },
+      {
+        "question": "How do you identify an antemortem wound compared to a postmortem wound?",
+        "credit": "Sumaiya",
+        "page_ref": "*Concept FM P-2, Page 229, 251 & 261*",
+        "answer": "By looking for **vital reactions**:  \n* **Antemortem wound:** Edges are swollen, everted, and gaping; hemorrhage is profuse and arterial (spurted onto clothes); tissue staining with extravasated blood that **cannot be removed by washing**; firm coagulated blood clots adherent to wound margins; microscopic evidence of leucocytic infiltration, cellular repair, and enzyme elevation.  \n* **Postmortem wound:** Edges are closely approximated and not swollen; bleeding is slight and venous; no arterial spurting; blood stain can be washed away easily; no vital reaction, no cellular infiltration, and no increase in enzyme activity.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch08_q05"
+      }
+    ]
+  },
+  {
+    "id": "ch09",
+    "num": 9,
+    "title": "Medico-Legal Aspects of Wounds",
+    "question_count": 5,
+    "questions": [
+      {
+        "question": "Enumerate the 8 points/clauses of Grievous Hurt under Section 320 of BPC.",
+        "credit": "Sathi, Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-2, Page 258*",
+        "answer": "Described under **Section 320 of the Bangladesh Penal Code (BPC)**:  \n1. **Emasculation**.  \n2. **Permanent privation of the sight of either eye**.  \n3. **Permanent privation of the hearing of either ear**.  \n4. **Privation of any member or joint**.  \n5. **Destruction or permanent impairing of the power of any member or joint**.  \n6. **Permanent disfiguration of the head or face**.  \n7. **Fracture or dislocation of a bone or tooth**.  \n8. **Any hurt which endangers life, or which causes the sufferer to be during the space of twenty days in severe bodily pain, or unable to follow his ordinary pursuits**.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch09_q01"
+      },
+      {
+        "question": "What is the logic behind Question 11 regarding Grievous Hurt classification?",
+        "credit": "Md. Azimul Islam Zunaid",
+        "page_ref": "*Concept FM P-2, Page 258 & 260*",
+        "answer": "The clinical logic separates simple hurt from grievous hurt based on whether the injury leaves a **permanent deformity, permanent disfiguration, loss of function of a vital member/joint, or endangers life**. Grievous hurt requires substantial penal liability (imprisonment up to 7 years under Section 325 BPC, or 10 years if caused by dangerous weapons under Section 326 BPC).",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch09_q02"
+      },
+      {
+        "question": "Why is a period of \"20 days\" specified in criteria 8 of Grievous Hurt?",
+        "credit": "Sathi, Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-2, Page 259*",
+        "answer": "1. *Legal/Statutory meaning:* \"Unable to follow ordinary pursuits for 20 days\" means the person is incapacitated from performing basic self-care (e.g., going to the toilet, bathing, taking food independently, or performing routine daily duties).  \n2. *Socio-economic rationale:* If a worker fails to attend their workplace due to injury for a continuous period of 20 days, they lose employment wages / will not be paid for that month. *(Note: Mere stay in hospital for 20 days without bodily incapacity does not automatically make an injury grievous ).*",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch09_q03"
+      },
+      {
+        "question": "Clinical scenarios on Grievous Hurt:",
+        "credit": "Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-1, Page 6 & 110; Concept FM P-2, Page 258 & 259*",
+        "answer": "1. *\"Look at my incisor tooth. As a boy, a corner broke off during a fight with a friend. Is this grievous hurt?\"*  \n2. *\"A man has an incised wound where the periosteum of the underlying bone is slightly notched. Is it grievous?\"*  \n\n**Answer:**  \n1. **Chipped/broken incisor tooth:** **Yes, it is grievous hurt.** Under Clause 7 of Section 320 BPC, *crack or fracture of a tooth or its dislocation amounts to grievous hurt*.  \n2. **Notched periosteum:** **Yes, it is grievous hurt.** Anatomically and legally, the periosteum is an integral part of the bone; any fracture, fissure, cut, or breach of continuity of bone or its periosteal cortex constitutes a fracture under Clause 7 of Section 320 BPC.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch09_q04"
+      },
+      {
+        "question": "Step-by-step layout and required components of an Injury Certificate / Report.",
+        "credit": "Md. Habibur Rahman, Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-2, Page 260*",
+        "answer": "An Injury Certificate contains:  \n* **Preliminary details of patient:**  \n  1. Serial number / Registration number.  \n  2. Name, age, sex, and full address of injured person.  \n  3. Father’s or guardian’s name.  \n  4. Date, time, and place of examination.  \n  5. Name and police constable belt number accompanying the patient.  \n  6. Name and address of person accompanying the patient.  \n  7. Brief statement / history given by the injured person.  \n  8. Two clear identification marks.  \n  9. Stature, weight, and general development.  \n  10. Informed consent of the victim for medical examination.  \n* **Findings on Injury:**  \n  1. Nature of each individual injury (abrasion, bruise, laceration, etc.).  \n  2. Exact dimensions (length, breadth, depth) and direction.  \n  3. Precise anatomical location (site).  \n  4. Classification of severity: Simple, Grievous, or Dangerous.  \n  5. Probable type of weapon used (sharp cutting, sharp pointed, or blunt).  \n  6. Age of injury (estimated from color changes/healing).  \n  7. Doctor's remarks, full signature, date, and official designation.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch09_q05"
+      }
+    ]
+  },
+  {
+    "id": "ch10",
+    "num": 10,
+    "title": "Forensic Ballistics",
+    "question_count": 1,
+    "questions": [
+      {
+        "question": "What is an abrasion collar and how does it form?",
+        "credit": "Afroza Akter",
+        "page_ref": "*Concept FM P-2, Page 275*",
+        "answer": "* **Definition:** Abraded skin around a bullet entrance wound due to rubbing of the gyrating body of the bullet against the inverted epidermis and heat of the bullet; also called **marginal abrasion or contusion collar**.  \n* **Mechanism of formation:** As the rotating bullet penetrates the elastic skin, it depresses and indents the skin before perforating it. The rubbing of the spinning, heated projectile against the inverted epidermal margins causes friction that scrapes away the superficial epithelial layer, leaving a rim of denuded dermis that dries into a reddish-brown collar.  \n* **Medicolegal importance:** Confirms an entrance wound and indicates direction: circular if fired perpendicular (90°), oval/elliptical if struck at an oblique angle.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch10_q01"
+      }
+    ]
+  },
+  {
+    "id": "ch11",
+    "num": 11,
+    "title": "Violent Asphyxial Deaths",
+    "question_count": 9,
+    "questions": [
+      {
+        "question": "Hanging: Definition, classifications, and manner of death.",
+        "credit": "Ashraful, Aurisha",
+        "page_ref": "*Concept FM P-2, Page 295 & 303*",
+        "answer": "* **Definition:** Hanging is a form of asphyxial death caused by suspension of the body by a ligature that encircles the neck, the constricting force being the weight of the whole body or the weight of the head alone.  \n* **Classifications:**  \n  1. *By degree of suspension:* Complete hanging (no part touches the ground) vs. Partial hanging (some part of the body touches the ground).  \n  2. *By position of knot:* Typical hanging (knot at nape of neck) vs. Atypical hanging (knot at any site other than nape of neck).  \n* **Manner of death:**  \n  * Partial hanging is **almost always suicidal**.  \n  * Complete hanging is **suicidal in nature**.  \n  * Hanging is homicidal in **judicial hanging** or lynching.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch11_q01"
+      },
+      {
+        "question": "Ligature mark in hanging: Is it always placed high up above the thyroid cartilage, or can it be positioned below?",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-2, Page 299 & 301*",
+        "answer": "The ligature mark in hanging is usually situated **high up around the neck above the thyroid cartilage**. However, it **can be situated below the thyroid cartilage**:  \n1. In cases of low suspension or partial hanging where the body leans forward.  \n2. When a running noose (slip knot) is used, tightening low on the neck.  \n3. In judicial hanging (where the rope drops and knot positions below the jaw/neck).",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch11_q02"
+      },
+      {
+        "question": "Differences in ligature mark: Hanging vs. Strangulation.",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-2, Page 299 & 309*",
+        "answer": "**Differences between ligature mark of hanging and strangulation:**\n\n| Feature | Hanging | Strangulation |\n|:--- |:--- |:--- |\n| **Placement/Level**  | High up, above thyroid cartilage | Low down, on or below thyroid cartilage |\n| **Direction/Course**  | Oblique, following line of mandible | Transverse, horizontal |\n| **Continuity**  | Non-continuous (incomplete with gap at knot) | Continuous, completely encircling neck |\n| **Base/Groove**  | Pale, hard, dry, parchment-like | Soft, reddish, bruised |\n| **Abrasions/Ecchymoses**  | Not common around edges | Common around mark |\n| **Subcutaneous tissue**  | White, hard, glistening under mark | Ecchymosed/bruised under mark |",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch11_q03"
+      },
+      {
+        "question": "Classification of Strangulation: What methods are included under manual strangulation?",
+        "credit": "Meem, Mahia Rahman",
+        "page_ref": "*Concept FM P-2, Page 304, 306, 307 & 308*",
+        "answer": "* **General Classifications of Strangulation:**  \n  1. *Strangulation proper:* Ligature strangulation.  \n  2. *Manual strangulation / Throttling:* Compression by human hands/fingers.  \n  3. *Mechanical strangulation:* Garroting, Mugging (elbow/knee bend compression), Bansdolla (bamboo sticks compression).  \n  4. *Palmar strangulation:* Compression by base of palm.  \n* **Methods included under Manual Strangulation (Throttling):**  \n  1. Attack from the front using one hand (thumb on one side, fingers on the opposite side).  \n  2. Attack from the front using both hands (fingers and thumbs compressing opposite sides of the neck).  \n  3. Attack from behind or side (fingers encircling the anterior neck against the cervical spine).",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch11_q04"
+      },
+      {
+        "question": "What complications develop if a person survives a hanging episode?",
+        "credit": "M",
+        "page_ref": "*Concept FM P-2, Page 298*",
+        "answer": "If a suspended person is rescued and survives hanging, the following secondary complications can develop:  \n1. **Hypoxic-ischemic encephalopathy** (cerebral anoxia).  \n2. **Cerebral edema** and raised intracranial pressure.  \n3. **Aspiration pneumonia**.  \n4. **Edema of the lungs and larynx**.  \n5. **Cerebral softening and infarction**.  \n6. **Hemiplegia, paraplegia, epileptiform convulsions**.  \n7. **Amnesia and dementia**.  \n8. **Cervical cellulitis and retropharyngeal abscess**.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch11_q05"
+      },
+      {
+        "question": "Define Suffocation. What are the cardinal signs of Asphyxia?",
+        "credit": "Sirat Ma'am",
+        "page_ref": "*Concept FM P-2, Page 288 & 291*",
+        "answer": "* **Definition of Suffocation:** Asphyxial death caused by mechanical hindrance to the entry of atmospheric air into the respiratory tract by means other than constriction of the neck (includes smothering, choking, gagging, traumatic/crush asphyxia, and environmental suffocation).  \n* **Cardinal Post-Mortem Signs of Asphyxia:**  \n  1. Intense cyanosis of face, lips, and nail beds.  \n  2. Dark, purplish, abnormally fluid blood (due to high fibrinolysin activity).  \n  3. Petechial hemorrhages (**Tardieu spots**) under the pleura, pericardium, and conjunctiva.  \n  4. Generalized visceral and pulmonary venous congestion.  \n  5. Engorgement of the right side of the heart while the left ventricle is empty.",
+        "source": "Photo Solution",
+        "q_num": "06",
+        "id": "ch11_q06"
+      },
+      {
+        "question": "Hanging vs. Strangulation: In which one are external asphyxial signs more prominent and why?",
+        "credit": "Sirat Ma'am",
+        "page_ref": "*Concept FM P-2, Page 298 & 309*",
+        "answer": "Asphyxial signs (cyanosis, facial congestion, petechial hemorrhages) are **much more marked and prominent in Strangulation**.  \n**Reason:** In hanging, the weight of the suspended body exerts sudden, high tension on the ligature, occluding both jugular veins and carotid arteries simultaneously, or triggering rapid reflex vagal cardiac arrest, producing a pale face with minimal petechiae. In strangulation, venous occlusion is gradual and sustained while arterial flow continues, resulting in intense venous backpressure, cyanosis, and profuse petechial hemorrhages in the face and eyes.",
+        "source": "Photo Solution",
+        "q_num": "07",
+        "id": "ch11_q07"
+      },
+      {
+        "question": "When can the ligature mark be absent in hanging?",
+        "credit": "Sathi Ma'am",
+        "page_ref": "*Concept FM P-2, Page 298 & 299*",
+        "answer": "The ligature mark may be faint, indistinct, or completely absent:  \n1. When a **soft, broad, padded ligature material** is used (e.g., silk saree, soft woollen scarf, cotton orna, or folded towel).  \n2. When the body is **cut down immediately** after suspension before post-mortem drying (parchmentization) sets in.  \n3. When clothing or a thick beard intervenes between the neck skin and the ligature rope.",
+        "source": "Photo Solution",
+        "q_num": "08",
+        "id": "ch11_q08"
+      },
+      {
+        "question": "Fresh Water vs. Salt Water Drowning: State the pathophysiology / cause of death in one line.",
+        "credit": "Sirat Ma'am",
+        "page_ref": "*Concept FM P-2, Page 317*",
+        "answer": "* **Fresh water drowning:** Causes massive water absorption across alveoli into circulation leading to **hemodilution, hypervolemia, hemolysis, hyperkalemia, and fatal ventricular fibrillation** (death in 2–5 minutes).  \n* **Salt water (sea) drowning:** Causes hypertonic fluid drawing plasma out of capillaries into alveoli leading to **hemoconcentration, hypovolemia, massive pulmonary edema, and acute anoxic asphyxia** (death in 5–8 minutes).  \n\n*(Reached maximum single response length. Say **\"next\"** to continue directly with Part 2: Regional Trauma, Transportation Injuries, Fall from Height, Forensic Psychiatry, Reproductive Jurisprudence, Corrosives, Inorganic Acids, Animal Poisons, Puffer Fish, and remaining Toxicology questions.)*",
+        "source": "Photo Solution",
+        "q_num": "09",
+        "id": "ch11_q09"
+      }
+    ]
+  },
+  {
+    "id": "ch12",
+    "num": 12,
+    "title": "Thermal and Electrical Injury",
+    "question_count": 9,
+    "questions": [
+      {
+        "question": "What are the generalized systemic effects of exposure to heat? What is Heat Stroke?",
+        "credit": "Oyshe",
+        "page_ref": "*Concept FM P-2, Page 336 & 337*",
+        "answer": "* **Systemic/General effects of heat:**  \n  1. Heat hyperpyrexia / Heat stroke.  \n  2. Heat exhaustion / Heat collapse / Heat syncope.  \n  3. Heat cramps (miner’s cramps).  \n  4. Sunburn.  \n  5. Heat rash (prickly heat / miliaria rubra).  \n* **Heat Stroke:** Condition caused by exposure to excessive environmental heat and humidity under exertion, characterized by:  \n  * Sudden collapse and loss of consciousness.  \n  * Core body temperature rising to **40°°C–43°°C (104°F–108°F)**.  \n  * Hot, dry, flushed skin with **complete absence of sweating** (anhidrosis).  \n  * Contracted pupils, rapid pulse, and Kussmaul-type deep respiration.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch12_q01"
+      },
+      {
+        "question": "Distinguish antemortem burns from postmortem burns.",
+        "credit": "Afrin Tabassum",
+        "page_ref": "*Concept FM P-2, Page 343 & 344*",
+        "answer": "**Differences between antemortem and postmortem burns:**\n\n| Feature  | Ante-mortem burn | Post-mortem burn |\n|:--- |:--- |:--- |\n| **Line of redness** | Present (vital line of congestion) | Absent |\n| **Blister/Vesicle contents** | Serous fluid rich in **albumin and chlorides** | Air and thin gas, negligible albumin |\n| **Base of blister** | Red, inflamed with raised papillae | Dry, hard, yellow, and horny |\n| **Infection & granulation** | Pus, sloughing, and granulation present | Completely absent |\n| **Respiratory tract** | **Carbon soot present** in trachea & bronchi | Absent |\n| **Carboxyhemoglobin (COHb)** | Present in blood (>10%) | Absent |\n| **Enzyme activity** | Increased in peripheral zone | No increase |",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch12_q02"
+      },
+      {
+        "question": "Differences between burns and scalds: Which lesion is clinically more painful?",
+        "credit": "Aurisha",
+        "page_ref": "*Concept FM P-2, Page 339 & 346*",
+        "answer": "* **Differences:** Burns are caused by dry heat (flame, hot solids, radiant heat) exceeding 44°°C, causing singeing of hairs, blackening, charring, and dry brown/black eschars. Scalds are caused by moist heat (hot liquids, steam) at or near boiling point; hair is never singed, skin is bleached, sodden, and water-logged without charring.  \n* **Which is more painful:** **Superficial burns and scalds hurt more**. In superficial lesions, cutaneous sensory nerve endings remain healthy, intact, and exposed to irritation, transmitting severe pain signals. In deep burns, nerve terminals are completely destroyed/coagulated, rendering the area numb and painless.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch12_q03"
+      },
+      {
+        "question": "Differential diagnosis between Heat Hematoma and Extradural Hematoma.",
+        "credit": "Mohaimin 87",
+        "page_ref": "*Concept FM P-2, Page 345*",
+        "answer": "**Differences between heat hematoma and traumatic extradural hematoma:**\n\n| Feature  | Heat hematoma (due to burns) | Extradural hematoma (due to trauma) |\n|:--- |:--- |:--- |\n| **Cause** | Charring of skull due to intense heat | Direct blunt force trauma to head |\n| **Situation** | Anywhere, usually bilateral (temporo-parietal) | Usually unilateral, adjacent to sylvian fissure |\n| **Distribution** | Diffuse, spread over vertex | Localized |\n| **Consistency & Color** | Thin, granular, soft, friable, **chocolate-colored** | Firm, rubbery, **dark reddish-purple** |\n| **Section appearance** | **Honeycomb appearance** | Solid, discoid-shaped clot |\n| **Carboxyhemoglobin** | **Present** in blood clot | Absent |\n| **Associated lesions** | Skull bone charred; brain hardened/cooked | Fracture of skull along middle meningeal vessels |",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch12_q04"
+      },
+      {
+        "question": "Fluid resuscitation calculations in burns:",
+        "credit": "Afroza Akter, Ashraful, Afrin Tabassum",
+        "page_ref": "*Concept FM P-2, Page 340 & 341*",
+        "answer": "1. *40 kg patient with 18% burns.*  \n2. *50 kg patient with 10% burns.*  \n\n**Answer:**  \nUsing the standard **Parkland Formula** for fluid resuscitation in the first 24 hours:  \nTotal Fluid (Ringer's Lactate) = 4 mL × Weight (kg) × % Burn Surface Area  \n\n1. **For 40 kg patient with 18% burns:**  \n   Total Fluid = 4 mL × 40 × 18 = 2880 mL  \n   * *First 8 hours:* Half of the volume = **1440 mL**.  \n   * *Next 16 hours:* Remaining half = **1440 mL**.  \n2. **For 50 kg patient with 10% burns:**  \n   Total Fluid = 4 mL × 50 × 10 = 2000 mL  \n   * *First 8 hours:* Half of the volume = **1000 mL**.  \n   * *Next 16 hours:* Remaining half = **1000 mL**.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch12_q05"
+      },
+      {
+        "question": "How do you estimate 3% burns using Wallace's Rule of Nines / Palm rule?",
+        "credit": "Nuha",
+        "page_ref": "*Concept FM P-2, Page 340*",
+        "answer": "According to **Wallace's Rule of Nines**, the surface area of the **patient’s own palm** (including fingers) corresponds to **1%** of their total body surface area. Therefore, an area equal to **three times the size of the patient's palm** equals **3% burn**.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch12_q06"
+      },
+      {
+        "question": "Differences between Alternating Current (AC) and Direct Current (DC).",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-2, Page 349 & 350*",
+        "answer": "* **Alternating Current (AC):** Changes direction cyclically (typically 50–60 Hz in domestic supplies). AC is **4 to 5 times more dangerous** than DC at the same voltage because cyclic reversals stimulate continuous tetanic muscular spasms (\"freeze-to-circuit\" effect), preventing the victim from letting go, and predisposes the heart to fatal ventricular fibrillation.  \n* **Direct Current (DC):** Flows continuously in one direction (e.g., batteries, industrial dynamos). It tends to produce a single violent muscular contraction that throws the victim away from the conductor, often resulting in mechanical blast or blunt secondary fall injuries.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch12_q07"
+      },
+      {
+        "question": "What is an electric burn (Joule burn)? Describe its characteristics and factors influencing shock severity.",
+        "credit": "M, Khondoker Rafid",
+        "page_ref": "*Concept FM P-2, Page 352 & 353*",
+        "answer": "* **Definition:** Joule burn (electric mark) is a lesion produced at the site of entrance of electricity of 'not-very-high-voltage' into the body, generated by resistance offered by skin tissues converting electrical energy into heat (endogenous burn).  \n* **Morphological Characteristics:**  \n  1. *Shape:* Round, oval, or linear; may reproduce the outline of the conductor.  \n  2. *Center:* Shallow crater with a flat, pale, collapsed floor.  \n  3. *Margin/Ridge:* Elevated ridge of skin 1–3 mm high surrounding the crater.  \n  4. *Areola:* Peripheral zone of pale blanched skin surrounded by hyperemic congestion.  \n  5. *Color:* Chalky-white or gray; may show metallic discoloration (bluish-green if copper wire, dark brown/black if iron).  \n* **Factors influencing shock severity:**  \n  1. Voltage and amperage of current.  \n  2. Type of current (AC vs. DC).  \n  3. Electrical resistance of skin (dry skin has high resistance, 100{,}000; wet/sweaty skin drops resistance to <1{,}000 ).  \n  4. Pathway of current through the body (hand-to-hand or hand-to-foot path traversing heart/brainstem is most fatal).  \n  5. Duration of contact.",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch12_q08"
+      },
+      {
+        "question": "What is Blast Lung? Pathophysiology, histological signs, and clinical problems.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-2, Page 284*",
+        "answer": "* **Definition:** Specific pulmonary injury produced by the high-pressure shock wave of an air blast.  \n* **Pathophysiology:** The explosion generates an overpressure shock wave traveling faster than sound (>1120 ft/sec). When this pressure wave exceeds 700 kPa (100 lb/in²), it strikes inhomogeneous tissues of varying acoustic density (such as the air-containing alveoli and capillary bed of lungs), shredding alveolar architecture.  \n* **Histological & Autopsy signs:**  \n  1. Subpleural patchy hemorrhages, often aligned as transverse bands matching the rib cage.  \n  2. Rupture of alveolar septa with massive intra-alveolar hemorrhage.  \n  3. Desquamation of alveolar and bronchial epithelium.  \n  4. Bullae formation at the margins of lung lobes.  \n* **Clinical problems:** Acute hemoptysis, severe chest pain, dyspnea, cyanosis, reactive pulmonary edema with blood-stained froth filling airways, and secondary fatal bronchopneumonia.",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch12_q09"
+      }
+    ]
+  },
+  {
+    "id": "ch13",
+    "num": 13,
+    "title": "Regional Injury & Road Traffic Accidents (RTAs)",
+    "question_count": 5,
+    "questions": [
+      {
+        "question": "Define cerebral concussion.",
+        "credit": "Lailatul Islam",
+        "page_ref": "*Concept FM P-2, Page 363*",
+        "answer": "**Concussion:** Concussion is a state of temporary unconsciousness (due to partial or complete paralysis of cerebral function), due to head injury, comes on immediately after injury, is always followed by amnesia, and tends to spontaneous recovery.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch13_q01"
+      },
+      {
+        "question": "What is a contrecoup lesion? Mechanism, kinetics, and injury sites.",
+        "credit": "Mahia Rahman",
+        "page_ref": "*Concept FM P-2, Page 359 & 360*",
+        "answer": "* **Definition:** Contrecoup lesion means a brain injury situated in an area diametrically opposite to the site of impact.  \n* **Mechanism & Kinetics:** Contrecoup lesions occur **when the head is moving/unsupported** (e.g., falls or RTAs where moving head strikes a decelerating hard surface). When the moving skull abruptly arrests upon impact, the brain continues moving by inertia, striking the opposite inner table of the skull. Simultaneously, a negative pressure suction cavity develops at the contralateral pole, tearing cortical vessels.  \n* **Injury sites:** Typically involves the **frontal lobes (orbital surfaces) and temporal poles** when the victim falls backward striking the occiput. *(Note: In stationary/fixed heads, injuries are predominantly coup lesions beneath the impact site ).*",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch13_q02"
+      },
+      {
+        "question": "What injuries occur in a motorbike accident?",
+        "credit": "Md. Mahir Abrar",
+        "page_ref": "*Concept FM P-2, Page 218, 356, 368 & 369*",
+        "answer": "Injuries in motorbike collisions include:  \n1. **Head & Neck injuries:** Severe skull fractures, contrecoup cerebral contusions, intracranial hemorrhages, and cervical spine hyperextension/whiplash fractures.  \n2. **Brush burns / Gravel rash:** Extensive sliding/graze abrasions caused by dragging across rough asphalt road.  \n3. **Skeletal fractures:** Fractures of the clavicle, ribs, pelvic girdle, femur, and compound fractures of tibia/fibula.  \n4. **Internal visceral rupture:** Traumatic lacerations of spleen, liver, mesentery, and lungs due to deceleration or direct impact against handlebars.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch13_q03"
+      },
+      {
+        "question": "How do you differentiate a motor vehicle driver from other occupants?",
+        "credit": "Md. Azimul Islam Zunaid",
+        "page_ref": "*Concept FM P-2, Page 368 & 369*",
+        "answer": "* **Driver injuries:**  \n  1. *Steering wheel impact:* Sternal fractures, bilateral anterior rib fractures, contusion/laceration of heart and lungs, imprint abrasion of steering wheel arch on chest.  \n  2. *Pedal injuries:* Compound fractures and dislocation of **tibia, ankle, and calcaneum** caused by forceful bracing against brake/clutch pedals during impact.  \n  3. *Palmar cuts:* Abrasions or lacerations in the web spaces of fingers/palms from gripping the steering wheel.  \n* **Front-seat passenger:** Head strikes the windshield/dashboard (triangular glass dicing cuts on forehead, fractured facial bones, fractured patella/femur from dashboard impact), lacking pedal and steering wheel marks.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch13_q04"
+      },
+      {
+        "question": "Causes of RTAs, distinguishing accidental RTA from homicide staged as RTA, and causes of death.",
+        "credit": "Nuha, Mahedi vai",
+        "page_ref": "*Concept FM P-2, Page 218, 368 & 370*",
+        "answer": "* **Causes of RTAs:** Excessive speeding, driving under the influence of alcohol/drugs, mechanical brake/tire failure, poor road visibility, pedestrian negligence.  \n* **Differentiating genuine RTA from staged homicide:**  \n  * *Genuine RTA:* Typical triad of primary impact bumper injuries, secondary impact injuries, and secondary run-over tire tread imprint abrasions or flaying lacerations; presence of brake skid marks at the scene.  \n  * *Staged RTA:* Autopsy reveals lethal defense wounds, ligature marks around the neck, incised cut throat wounds, or firearm entries inflicted before being thrown on the road; absence of antemortem vital reactions along alleged collision abrasions.  \n* **Causes of death in RTAs:** Severe craniocerebral trauma (intracranial hemorrhage, brainstem disruption), traumatic hypovolemic shock from visceral/pelvic laceration, crushing asphyxia (flail chest), or secondary fat embolism.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch13_q05"
+      }
+    ]
+  },
+  {
+    "id": "ch14",
+    "num": 14,
+    "title": "Starvation",
+    "question_count": 1,
+    "questions": [
+      {
+        "question": "Mention the cardinal clinical and autopsy signs of starvation.",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-2, Page 377*",
+        "answer": "* **Clinical signs:** Emaciation with total loss of subcutaneous fat, sunken eyes, prominent bony landmarks, dry scaly skin, hollow scaphoid abdomen, subnormal temperature, extreme muscular weakness.  \n* **Autopsy findings:**  \n  1. Total absence of adipose tissue in subcutaneous and omental reserves.  \n  2. **Brown atrophy of the heart** (cardiac muscle shows lipofuscin pigmentation).  \n  3. Marked visceral atrophy: Atrophy of liver, spleen, kidneys, and pancreas.  \n  4. Stomach and intestines are empty, contracted, and show **paper-thin translucent intestinal walls**.  \n  5. **Gall bladder is distended** with dark, thick, viscid, inspissated bile.  \n  *(Note: The brain is the only organ that resists weight loss in starvation ).*",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch14_q01"
+      }
+    ]
+  },
+  {
+    "id": "ch15",
+    "num": 15,
+    "title": "Forensic Psychiatry",
+    "question_count": 2,
+    "questions": [
+      {
+        "question": "Define Running Amok.",
+        "credit": "Meem",
+        "page_ref": "*Concept FM P-3, Page 401 & 402*",
+        "answer": "**Running Amok:** A psychological state of acute delirium or manic excitement, where an individual (often after a brooding period of real or imagined grievance) suddenly arms himself with a dangerous cutting weapon, rushes into the street, and indiscriminately attacks and kills anyone in his path until overpowered or killed.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch15_q01"
+      },
+      {
+        "question": "Define and classify Impulse.",
+        "credit": "Dedcatto",
+        "page_ref": "*Concept FM P-3, Page 397 & 398*",
+        "answer": "* **Definition:** An impulse is a sudden, irresistible, unreflecting urge or driving force compelling a person to commit an act without premeditation or clear motive.  \n* **Classifications of Morbid Impulses:**  \n  1. *Kleptomania:* Irresistible impulse to steal articles of little or no intrinsic value.  \n  2. *Pyromania:* Irresistible impulse to set fire to buildings or property.  \n  3. *Dipsomania:* Irresistible episodic impulse to consume large quantities of alcohol.  \n  4. *Homicidal impulse:* Sudden irresistible impulse to kill without motive.  \n  5. *Suicidal impulse:* Sudden urge to end one's own life.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch15_q02"
+      }
+    ]
+  },
+  {
+    "id": "ch16",
+    "num": 16,
+    "title": "Virginity and Defloration",
+    "question_count": 2,
+    "questions": [
+      {
+        "question": "Anatomy of the hymen: Prevalent type, and evaluating virginity in congenital absence of the hymen.",
+        "credit": "Sumaiya",
+        "page_ref": "*Concept FM P-3, Page 403 & 404*",
+        "answer": "* **Definition & Common type:** The hymen is a membranous fold of mucous membrane partially closing the vaginal orifice. The most common anatomical variety is the **semilunar (crescentic) hymen**.  \n* **Evaluating virginity when hymen is congenitally absent:**  \n  * Examine other genital signs: Intact fourchette and posterior commissure; labia majora fleshy, prominent, and in close apposition covering the vestibule; labia minora small, sensitive, and pinkish; vaginal introitus narrow, admitting not more than the tip of the little finger with difficulty and pain; presence of prominent mucosal rugosities on vaginal walls.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch16_q01"
+      },
+      {
+        "question": "Imperforate Hymen: Clinical presentation and surgical management.",
+        "credit": "Tuhin Mollik, Md. Habibur Rahman",
+        "page_ref": "*Concept FM P-3, Page 404 & 405*",
+        "answer": "* **Clinical presentation:** Primary amenorrhea in an adolescent girl presenting with cyclic lower abdominal pain and pelvic heaviness (due to retained menstrual blood pooling as **hematocolpos, hematometra, and hematosalpinx**).  \n* **Surgical management:** Hymenotomy via a **cruciate incision** through the imperforate membrane to drain the accumulated dark tarry blood; performed under aseptic precautions by a **Gynecologist / Surgeon**.  \n\n*(Batch 3 completed. Say **\"next\"** to conclude with Batch 4: Sexual Assault & Rape, Forensic Reproduction, Infanticide, Trace Biological Analysis, and the remaining Toxicology topics.)*\n\nNext\n\n# Raw Viva Questions (54 Batch) — Solved Strictly from Concept Guide (Batch 4)",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch16_q02"
+      }
+    ]
+  },
+  {
+    "id": "ch17",
+    "num": 17,
+    "title": "Sexual Offences, Perversions & Matrimonial Issues",
+    "question_count": 9,
+    "questions": [
+      {
+        "question": "In which examination room should a female rape victim be examined?",
+        "credit": "Aurisha",
+        "page_ref": "*Concept FM P-1, Page 4; Concept FM P-3, Page 415 & 444*",
+        "answer": "A female rape victim must be examined in a **well-lighted, private examination room** (e.g., in the One-Stop Crisis Center (OCC) or the gynecological/forensic examination room of a Government Medical College Hospital or District Sadar Hospital) with complete privacy, where unauthorized persons cannot enter, and strictly in the presence of a **female attendant/nurse**.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch17_q01"
+      },
+      {
+        "question": "Practical verification: Have you witnessed a live rape victim examination, inspected an official rape report, and can you fill out the examination proforma yourself? Procedure for collection and preservation of high vaginal swabs.",
+        "credit": "Md. Habibur Rahman, Rubaiat Rahman, Dedcatto",
+        "page_ref": "*Concept FM P-3, Page 415, 416 & 418; Concept FM P-4, Page 525, 526 & 537*",
+        "answer": "* **Examination & Proforma:** The candidate must state familiarity with the official rape examination proforma, which includes preliminary particulars (requisition, identification, 3 passport-size photos, informed written consent in presence of a female attendant), detailed history, general physical examination, local genital examination, collection of trace evidence, and formulation of the final medicolegal opinion.  \n* **High Vaginal Swab Procedure:**  \n  1. Place the victim in the lithotomy position under good illumination.  \n  2. A sterile, unlubricated speculum (moistened only with sterile saline) is introduced into the vagina.  \n  3. Sterile cotton swabs (or cotton ear buds) are taken from the posterior fornix/high vagina and external os.  \n  4. Swabs are smeared onto clean glass slides for immediate microscopic examination for motile/intact spermatozoa and gonococci.  \n  5. The remaining swabs are **completely air-dried in the shade**, placed in clean, sterile dry test tubes, sealed, labeled, and sent to the laboratory for chemical, enzymatic (acid phosphatase), and DNA analysis.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch17_q02"
+      },
+      {
+        "question": "Confirmatory laboratory tests for semen detection in rape.",
+        "credit": "M",
+        "page_ref": "*Concept FM P-4, Page 526 & 527*",
+        "answer": "* **Absolute Proof:**  \n  1. Finding of **at least one unbroken/intact spermatozoon** under microscopic examination.  \n  2. Electrophoretic detection of **LDH-X (Lactate dehydrogenase) iso-enzyme** specific to sperms.  \n* **In the absence of spermatozoa (aspermia/vasectomy):**  \n  1. Positive **Precipitin test** (using human anti-semen serum).  \n  2. High levels of **acid phosphatase**, **prostate-specific antigen (p30 / PSA)**, and **creatine phosphokinase (CPK)**.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch17_q03"
+      },
+      {
+        "question": "What is Rape Trauma Syndrome (RTS)? Describe its stages and psychological signs.",
+        "credit": "M",
+        "page_ref": "*Concept FM P-3, Page 418*",
+        "answer": "**Definition:** Rape trauma syndrome consists of behavioral, somatic, and psychological reactions that occur as a result of forcible rape or attempt to forcible rape (regarded as a form of PTSD).  \n**Stages of RTS:**  \n1. **Immediate / Acute / Disorganization phase:** Characterized by emotional breakdown:  \n   * Tension symptoms, crying, and sobbing.  \n   * Severe emotional imbalance.  \n   * Acute depression and sleeplessness.  \n   * Overwhelming feelings of guilt, humiliation, and terror.  \n2. **Long-term / Reorganization phase:**  \n   * The victim attempts to readjust her life as far as possible.  \n   * Persistent phobias (fear of being alone, fear of crowds, fear of sexual activity).  \n   * Recurrent distressing nightmares and flashbacks.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch17_q04"
+      },
+      {
+        "question": "Sodomy: How do you differentiate the active agent from the passive agent?",
+        "credit": "Afrin Tabassum",
+        "page_ref": "*Concept FM P-3, Page 424 & 425*",
+        "answer": "* **Habitual Passive Agent:**  \n  1. Anal orifice is dilated and patulous.  \n  2. **Loss of tonicity of sphincter ani**.  \n  3. Skin around the anus becomes smooth and thickened with **absence of fine radiating mucosal wrinkles**.  \n  4. Buttocks are slightly depressed towards the anus.  \n  5. **Funnel-shaped anus** (with thickening and smoothing of perianal skin).  \n  6. Presence of anal fissures, scars, and perianal shaving.  \n* **Active Agent:**  \n  1. Peculiar smell of anal glands transferred to the penis.  \n  2. Traces of fecal matter and lubricant on the glans penis or coronal sulcus.  \n  3. Abrasions on the prepuce/glans, tearing of frenum.  \n  4. In habitual active sodomites: The penis may be unusually elongated, constricted at some distance from the glans, and the urethra may appear twisted.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch17_q05"
+      },
+      {
+        "question": "What other names exist for Lesbianism? What class of offence is it, and what is its male counterpart?",
+        "credit": "Lailatul Islam, Dedcatto",
+        "page_ref": "*Concept FM P-3, Page 410, 422 & 425*",
+        "answer": "* **Other Names:** **Tribadism**.  \n* **Class of Offence:** **Unnatural sexual offence** (punishable under **Section 377 BPC**).  \n* **Male Counterpart:** **Homosexuality / Gay** (male homosexuality / sodomy).",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch17_q06"
+      },
+      {
+        "question": "Types of sexual perversion: Which one is most common nowadays? Describe it.",
+        "credit": "Meem, Ashraful",
+        "page_ref": "*Concept FM P-3, Page 410, 428 & 430*",
+        "answer": "* **Types of Sexual Perversions:** Sadism, Masochism, Voyeurism, Exhibitionism, Frotteurism, Fetishism, Transvestism, Bestiality, Necrophilia, Masturbation.  \n* **Most common nowadays:** **Voyeurism (Peeping Tom)**.  \n* **Description:** Voyeurism is a perversion where sexual gratification is obtained by secretly watching unsuspecting persons who are nude, in the process of disrobing, in underwear, or engaged in sexual acts (most often strangers).",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch17_q07"
+      },
+      {
+        "question": "In the offence of Adultery, must the male partner always be married?",
+        "credit": "Aurisha",
+        "page_ref": "*Concept FM P-1, Page 63; Concept FM P-3, Page 421*",
+        "answer": "**No, the male partner does not necessarily have to be married.**  \nUnder penal law (Section 497 BPC), adultery is committed by a man having sexual intercourse with a woman whom he knows or has reason to believe to be the **wife of another man**, without the consent or connivance of that husband. Thus, the male accused may be married or unmarried, but the female partner **must be a married woman**.",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch17_q08"
+      },
+      {
+        "question": "What is the importance of impotency and sterility in divorce/nullity of marriage?",
+        "credit": "Md. Mahir Abrar, Ashraful, Raiyan Rahman 133",
+        "page_ref": "*Concept FM P-4, Page 442, 449 & 450*",
+        "answer": "* **Impotence:** Incurable impotence existing at the time of marriage and continuing at the time of petition is a **valid legal ground for divorce and nullity of marriage**.  \n* **Sterility:** Sterility is the inability to procreate children despite having normal potency. **Sterility is NOT a ground for divorce or nullity of marriage**.",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch17_q09"
+      }
+    ]
+  },
+  {
+    "id": "ch19",
+    "num": 19,
+    "title": "Artificial Insemination (ARTs)",
+    "question_count": 2,
+    "questions": [
+      {
+        "question": "Define Artificial Insemination (AI). What are its types, and which technique is legal in Bangladesh?",
+        "credit": "Dedcatto, Sassy Queen 👑 fjr",
+        "page_ref": "*Concept FM P-4, Page 457*",
+        "answer": "* **Definition:** Artificial insemination (AI) is a process in which sperms are deposited in the female genital tract (vagina, cervix, or uterus) artificially when the female cannot conceive through sexual intercourse with her husband.  \n* **Types:**  \n  1. **AIH (Artificial Insemination Homologous/Husband):** Semen of the woman’s husband is used.  \n  2. **AID (Artificial Insemination Donor):** Semen from an unrelated donor is used.  \n  3. **AIHD / Pooled Donor:** Mixture of husband’s semen and donor’s semen.  \n* **Legal Status in Bangladesh:** **Only AIH is legally recognized in Bangladesh**.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch19_q01"
+      },
+      {
+        "question": "Disadvantages/hazards of AI: Does a child born through AID inherit paternal property under Bangladeshi civil/personal law?",
+        "credit": "Dedcatto, Sassy Queen 👑 fjr",
+        "page_ref": "*Concept FM P-4, Page 458 & 494*",
+        "answer": "* **Hazards/Disadvantages:** Psychological trauma to the husband, neurosis in the mother, risk of adultery charges, question of illegitimacy, and potential risk of unintentional incest between offspring of the same donor.  \n* **Inheritance Rights:** Under personal and civil law in Bangladesh, a child born through AID without legal paternal blood lineage is considered an **illegitimate child** in relation to the husband, and therefore **has no right to inherit ancestral property from the rearing father** unless legally adopted through statutory deeds.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch19_q02"
+      }
+    ]
+  },
+  {
+    "id": "ch20",
+    "num": 20,
+    "title": "Pregnancy, Abortion, Legitimacy & Infanticide",
+    "question_count": 9,
+    "questions": [
+      {
+        "question": "When can a Urine Pregnancy Test (UPT) be positive in the absence of intrauterine pregnancy?",
+        "credit": "Md. Mahir Abrar",
+        "page_ref": "*Concept FM P-4, Page 469*",
+        "answer": "A false-positive immunological pregnancy test occurs in:  \n1. **Choriocarcinoma**.  \n2. **Hydatidiform mole**.  \n3. **Chorionic epithelioma**.  \n4. Ectopic pregnancy.  \n5. Post-menopausal women (due to high pituitary LH cross-reaction).",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch20_q01"
+      },
+      {
+        "question": "What is Lochia? Describe its chronological stages and duration.",
+        "credit": "Dedcatto, Mahia Rahman",
+        "page_ref": "*Concept FM P-4, Page 477 & 478*",
+        "answer": "* **Definition:** Lochia is the physiological vaginal discharge escaping from the uterine cavity during the first few weeks following childbirth (puerperium).  \n* **Stages & Duration:**  \n  1. **Lochia Rubra (Red):** Dark red discharge consisting of blood, decidual shreds, and vernix; lasts for the first **1 to 4 days** post-delivery.  \n  2. **Lochia Serosa (Pink/Brownish):** Pale, yellowish-brown or serous discharge containing leukocytes, mucus, and wound exudate; lasts from the **5th to 9th day**.  \n  3. **Lochia Alba (White):** Pale whitish or yellowish discharge containing abundant decidual cells, leukocytes, and mucus; lasts from the **10th to 14th day** (discharged after the 9th day).",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch20_q02"
+      },
+      {
+        "question": "What is threatened abortion, and what type of abortion is it?",
+        "credit": "Md. Azimul Islam Zunaid",
+        "page_ref": "*Concept FM P-4, Page 481 & 490*",
+        "answer": "* **Definition:** Threatened abortion is a clinical state of pregnancy where painless uterine bleeding occurs before the 28th week of gestation, with a closed internal cervical os and intact membranes, where continuation of pregnancy is still possible.  \n* **Classification:** It is classified under **Spontaneous Abortion**.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch20_q03"
+      },
+      {
+        "question": "Define an illegitimate child.",
+        "credit": "Lailatul Islam",
+        "page_ref": "*Concept FM P-4, Page 493*",
+        "answer": "An illegitimate or bastard child is one which is born out of lawful wedlock, or not within a competent time after the dissolution of marriage by divorce or death of the husband, or born within lawful wedlock when procreation by the husband was impossible.",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch20_q04"
+      },
+      {
+        "question": "What is a Posthumous Child? Statutory duration of legitimacy following husband's death.",
+        "credit": "Lailatul Islam",
+        "page_ref": "*Concept FM P-4, Page 493 & 496*",
+        "answer": "* **Definition:** A posthumous child is a child born after the death of its father, the mother having conceived by the said father.  \n* **Presumption of Legitimacy:** Under the law, a child born within **280 days** after dissolution of marriage by death of the husband (the mother remaining unmarried) is presumed to be legitimate.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch20_q05"
+      },
+      {
+        "question": "Scientific and legal methods used to exclude an alleged father in disputed paternity.",
+        "credit": "Mahia Rahman",
+        "page_ref": "*Concept FM P-4, Page 496 & 498*",
+        "answer": "1. **ABO and Rh Blood Grouping:** Can definitively exclude an alleged father if the child possesses a blood antigen absent in both the mother and the alleged father.  \n2. **MN and other minor blood systems (Kell, Duffy)**.  \n3. **HLA (Human Leukocyte Antigen) Tissue Typing**.  \n4. **Serum Protein and Enzyme Polymorphism**.  \n5. **DNA Fingerprinting / Profiling:** The ultimate conclusive method to establish or exclude paternity.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch20_q06"
+      },
+      {
+        "question": "Live Birth vs. Stillborn: Definitions, lung autopsy findings (hydrostatic test), and crying criteria.",
+        "credit": "Sumaiya",
+        "page_ref": "*Concept FM P-4, Page 502, 505 & 508*",
+        "answer": "* **Definitions:**  \n  * *Live Birth:* The child showed signs of life (crying, breathing, or voluntary muscle twitching) after being completely or partially born out of the mother.  \n  * *Stillborn:* A child born after the 28th week of pregnancy that died during the process of delivery and never breathed or showed any sign of life after complete expulsion.  \n* **Autopsy Findings of Lungs:**\n\n| Feature | Stillborn Child | Live-Born Child |\n|:--- |:--- |:--- |\n| **Gross Appearance** | Dark red/bluish-red, small, dense, liver-like  | Mottled pink/marble, expanded, covers pericardium  |\n| **Consistency** | Solid, non-crepitant  | Spongy, elastic, crepitant on pressure  |\n| **Weight** | 1/70th of total body weight  | 1/35th of total body weight (weight doubles)  |\n| **Margins** | Sharp  | Rounded  |\n| **Hydrostatic Test** | Entire lungs and cut segments **sink in water**  | Entire lungs and individual cut segments **float in water**  |\n\n* **Crying Criteria:** The child **cries in live birth**. A stillborn child **never cries**.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch20_q07"
+      },
+      {
+        "question": "Does Infanticide exist as an independent charge under the law of Bangladesh?",
+        "credit": "Mohaimin 87",
+        "page_ref": "*Concept FM P-4, Page 500*",
+        "answer": "**No.** The law in Bangladesh draws no statutory distinction between the murder of a newborn infant and the murder of an adult individual. The offense of infanticide is prosecuted under the general penal provisions for murder (**Section 302 BPC**).",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch20_q08"
+      },
+      {
+        "question": "Battered Baby Syndrome (BBS): Which bones fracture most commonly? Pathognomonic radiological signs.",
+        "credit": "M, Aurisha",
+        "page_ref": "*Concept FM P-4, Page 445 & 447*",
+        "answer": "* **Commonly Fractured Bones:** **Ribs**, metaphysical chip fractures of **long bones (femur, tibia, humerus)**, and the **skull** (producing linear fractures and subdural hematoma).  \n* **Pathognomonic Radiological Findings:** Presence of **multiple fractures of different ages in different stages of healing/callus formation** across different skeletal areas, which is completely inconsistent with the parental history of a minor accidental fall.",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch20_q09"
+      }
+    ]
+  },
+  {
+    "id": "ch25",
+    "num": 25,
+    "title": "Trace Evidence & Forensic Science Laboratory",
+    "question_count": 1,
+    "questions": [
+      {
+        "question": "Blood Identification: Why is the Precipitin test definitive? Principles and mechanism.",
+        "credit": "Rashid",
+        "page_ref": "*Concept FM P-4, Page 524 & 539*",
+        "answer": "* **Why Definitive:** Chemical screening tests (benzidine, phenolphthalein) only detect peroxidase activity, and microcrystalline tests (Teichmann, Takayama) only confirm blood of unknown origin. The **Precipitin test is species-specific**, proving conclusively that the blood is of **human origin**.  \n* **Mechanism:** It is an immunological antigen-antibody reaction. When human blood extract (containing human protein antigen) is brought into contact with anti-human precipitin serum prepared in rabbits, a white precipitate ring forms at the junction within a few minutes.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch25_q01"
+      }
+    ]
+  },
+  {
+    "id": "ch26",
+    "num": 26,
+    "title": "Toxicology (General, Specific & Poisonings)",
+    "question_count": 20,
+    "questions": [
+      {
+        "question": "What is the definition of poison? Local vs. systemic toxic actions.",
+        "credit": "Mahia Rahman",
+        "page_ref": "*Concept FM P-4, Page 541 & 634*",
+        "answer": "* **Definition of Poison:** A poison is a substance (solid, liquid, or gas) which, if introduced into the living body or brought into contact with any part thereof, will produce ill-health, disease, or death by its constitutional or local effects.  \n* **Local Actions:** Direct destructive or inflammatory action at the site of contact (e.g., corrosion, blistering, irritation of GIT mucosa or skin).  \n* **Systemic Actions:** Toxic effects produced on distant target organs (CNS, CVS, respiratory system, liver, kidneys) after absorption into the bloodstream.",
+        "source": "54 Batch",
+        "q_num": "01",
+        "id": "ch26_q01"
+      },
+      {
+        "question": "Initial clinical evaluation of an acutely poisoned or bitten patient.",
+        "credit": "Mahia Rahman",
+        "page_ref": "*Concept FM P-4, Page 550 & 555; Concept FM P-5, Page 659 & 660*",
+        "answer": "1. Immediate resuscitation following the **ABC principles** (Airway clearance, Breathing maintenance, Circulation support).  \n2. Rapid baseline assessment of vital signs: **Pulse, blood pressure, respiratory rate, pupillary reflexes, and Glasgow Coma Scale (GCS)**.  \n3. Focused history regarding the nature, quantity, route, and time elapsed since intake/bite.",
+        "source": "54 Batch",
+        "q_num": "02",
+        "id": "ch26_q02"
+      },
+      {
+        "question": "Classify Antidotes with examples.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-4, Page 559 & 560*",
+        "answer": "1. **Mechanical/Physical Antidotes:** Act mechanically to block absorption or coat mucosa without chemically altering the poison:  \n   * *Demulcents:* Milk, egg white, starch.  \n   * *Adsorbents:* Activated charcoal.  \n2. **Chemical Antidotes:** React chemically with the poison to form an insoluble or non-toxic compound:  \n   * Freshly prepared hydrated ferric oxide for arsenic.  \n   * 1% potassium ferrocyanide for copper sulphate.  \n3. **Physiological / Pharmacological Antidotes:** Produce physiological effects directly opposite to those of the poison:  \n   * Atropine for organophosphorus compounds (OPCs).  \n   * Naloxone for morphine.",
+        "source": "54 Batch",
+        "q_num": "03",
+        "id": "ch26_q03"
+      },
+      {
+        "question": "Toxicological thermoregulation: Which poisons cause hypothermia vs. hyperpyrexia? State the temperature in Datura hyperpyrexia.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-4, Page 555; Concept FM P-5, Page 602 & 610*",
+        "answer": "* **Hypothermia:** Alcohol, barbiturates, opioids/morphine, chloral hydrate, kerosene.  \n* **Hyperpyrexia:** **Datura, atropine, cocaine, amphetamines/Yaba**.  \n* **Temperature in Datura:** Core body temperature may reach up to **107°F** (\"Hot as a hare\").",
+        "source": "54 Batch",
+        "q_num": "04",
+        "id": "ch26_q04"
+      },
+      {
+        "question": "Pupillary changes in toxicology: Poisons causing pinpoint pupils vs. dilated pupils.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-4, Page 567 & 582; Concept FM P-5, Page 602 & 614*",
+        "answer": "* **Pinpoint Pupils (Miosis):** **Organophosphorus Compounds (OPC)**, **Opium/Morphine**, Carbolic acid (phenol), Pontine hemorrhage.  \n* **Dilated Pupils (Mydriasis):** **Datura/Atropine**, **Cocaine**, Alcohol, Cyanide, Yellow oleander.",
+        "source": "54 Batch",
+        "q_num": "05",
+        "id": "ch26_q05"
+      },
+      {
+        "question": "List common stupefying agents.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-4, Page 542; Concept FM P-5, Page 600*",
+        "answer": "1. **Datura**.  \n2. **Cannabis indica**.  \n3. **Chloroform**.  \n4. **Chloral hydrate**.",
+        "source": "54 Batch",
+        "q_num": "06",
+        "id": "ch26_q06"
+      },
+      {
+        "question": "In convulsant poison ingestion, when is stomach wash indicated or contraindicated?",
+        "credit": "Md. Azimul Islam Zunaid",
+        "page_ref": "*Concept FM P-4, Page 557; Concept FM P-5, Page 666*",
+        "answer": "* **Contraindication:** Gastric lavage is **relatively contraindicated** during active convulsant toxicity (e.g., strychnine) because passing a stomach wash tube stimulates sensory receptors and precipitates fatal, prolonged tetanic seizures and respiratory arrest.  \n* **When Indicated:** Gastric lavage can be performed **only after convulsions are fully controlled** by administering IV diazepam, barbiturates, or muscle relaxants under endotracheal intubation.",
+        "source": "54 Batch",
+        "q_num": "07",
+        "id": "ch26_q07"
+      },
+      {
+        "question": "During gastric lavage, how is a stethoscope used to verify gastric placement?",
+        "credit": "Nuha",
+        "page_ref": "*Concept FM P-4, Page 557*",
+        "answer": "The clinician places the diaphragm of the stethoscope over the **epigastrium** while injecting a 20–30 mL bolus of air through the stomach tube with a syringe. Hearing a loud, distinct **bubbling or gurgling sound** confirms that the tip of the tube lies inside the gastric cavity and has not entered the trachea or bronchi.",
+        "source": "54 Batch",
+        "q_num": "08",
+        "id": "ch26_q08"
+      },
+      {
+        "question": "Why is H₂SO₄ considered volatile? Is it always volatile?",
+        "credit": "Samia 66",
+        "page_ref": "*Concept FM P-5, Page 617 & 630*",
+        "answer": "* **Pure H₂SO₄** is a heavy, oily, non-volatile, hygroscopic liquid that does not fume at normal ambient room temperature.  \n* It exhibits **volatility and fuming** under specific conditions:  \n  1. When heated, it decomposes, releasing choking fumes of sulphur trioxide (SO₃) and sulphur dioxide (SO₂).  \n  2. Commercial preparations such as **Nordhausen sulphuric acid (Oleum / fuming sulphuric acid)** contain dissolved SO₃ gas that fumes profusely on contact with atmospheric moisture.",
+        "source": "54 Batch",
+        "q_num": "09",
+        "id": "ch26_q09"
+      },
+      {
+        "question": "Which arsenic compound is used in surgery / orthopedics?",
+        "credit": "Afroza Akter, Afrin Tabassum",
+        "page_ref": "",
+        "answer": "This refers to **Plaster of Paris (gypsum / calcium sulphate)** used in orthopedic casts, which historically or commercially could contain trace arsenical compounds; or therapeutic arsenicals used in oncology (*arsenic trioxide*).  \n\n**Additional Information (Not Found in Guide Book):**  \n*The Concept Guide details chemical forms of arsenic (arsenious oxide, copper acetoarsenite, etc.) on page 636, but this specific question was framed by viva examiners to test awareness of orthopedic cast preparations (Plaster of Paris).*",
+        "source": "54 Batch",
+        "q_num": "10",
+        "id": "ch26_q10"
+      },
+      {
+        "question": "Specific antidote for Organophosphorus Compound (OPC) poisoning.",
+        "credit": "Khondoker Rafid",
+        "page_ref": "*Concept FM P-4, Page 574 & 575*",
+        "answer": "1. **Atropine sulphate:** Specific physiological/pharmacological antidote that competitively blocks acetylcholine at muscarinic receptor sites.  \n2. **Pralidoxime (2-PAM) / Oximes:** Specific enzyme reactivator that detaches the organophosphate group and reactivates inhibited acetylcholinesterase at neuromuscular junctions.",
+        "source": "54 Batch",
+        "q_num": "11",
+        "id": "ch26_q11"
+      },
+      {
+        "question": "Datura poisoning: How to recognize a victim from a distance? State the pupillary signs and fatal dose of crushed seeds.",
+        "credit": "Afroza Akter, Khondoker Rafid, Mahia Rahman",
+        "page_ref": "*Concept FM P-5, Page 601, 602 & 603*",
+        "answer": "* **From a distance:** The victim exhibits **staggering drunken gait**, flushed red face, dry congested eyes, muttering delirium, and characteristic **ludicrous movements** (picking at bedclothes, trying to pull imaginary threads from fingertips, grasping imaginary objects).  \n* **Pupils:** Widely **dilated and non-reactive to light**.  \n* **Fatal Dose:** **0.6 to 1 gram** of crushed seeds, or approximately **100 to 125 crushed Datura seeds**.",
+        "source": "54 Batch",
+        "q_num": "12",
+        "id": "ch26_q12"
+      },
+      {
+        "question": "Single pathognomonic physical sign revealing recent cannabis consumption. What is Ganja Psychosis?",
+        "credit": "Meem, Oyshe, Sassy Queen 👑 fjr",
+        "page_ref": "*Concept FM P-5, Page 606 & 608*",
+        "answer": "* **Single Sign:** Marked **conjunctival congestion / red eyes**.  \n* **Ganja Psychosis:** A chronic psychiatric condition resulting from prolonged overindulgence in cannabis, characterized by marked conjunctival redness, tremors, anorexia, hallucinations, delusions of persecution, emotional instability, and homicidal/suicidal impulses.",
+        "source": "54 Batch",
+        "q_num": "13",
+        "id": "ch26_q13"
+      },
+      {
+        "question": "What administrative routes are utilized for taking heroin?",
+        "credit": "Md. Azimul Islam Zunaid",
+        "page_ref": "*Concept FM P-4, Page 580; Concept FM P-5, Page 700*",
+        "answer": "1. **Intravenous injection** (\"mainlining\").  \n2. **Subcutaneous / Intramuscular injection** (\"skin popping\").  \n3. **Inhalation / Smoking** (\"chasing the dragon\").  \n4. **Snorting / Insufflation** through the nasal mucosa.",
+        "source": "54 Batch",
+        "q_num": "14",
+        "id": "ch26_q14"
+      },
+      {
+        "question": "Retail dispensary scenario: Seeking a non-fatal drug to cause distress to family without resulting in death. Which drug fits this profile?",
+        "credit": "Oyshe",
+        "page_ref": "*Concept FM P-4, Page 568; Concept FM P-5, Page 709*",
+        "answer": "* **Drug Profile:** **Benzodiazepines** (e.g., Diazepam, Clonazepam, Lorazepam, Alprazolam).  \n* **Characteristics:** High therapeutic index, rarely fatal when taken alone in overdose, causing prolonged drowsiness, stupor, ataxia, slurred speech, and family distress without death.  \n* **Trade Names in Bangladesh:** Sedil, Easium, Rivotril, Epizam, Xanax. Advise strictly against high doses or combining with alcohol, which causes fatal respiratory depression.",
+        "source": "54 Batch",
+        "q_num": "15",
+        "id": "ch26_q15"
+      },
+      {
+        "question": "Classifications of alcohol, lethal daily intake, and statutory blood alcohol percentages.",
+        "credit": "Mohaimin 87",
+        "page_ref": "*Concept FM P-4, Page 589; Concept FM P-5, Page 709*",
+        "answer": "* **Classifications:** Absolute alcohol, rectified spirit, methylated spirit, denatured spirit, country liquor (tari, arrack), and foreign liquors (beer, wine, whisky, brandy, rum).  \n* **Lethal Dose:** **150 to 250 mL of absolute alcohol** consumed within 1 hour.  \n* **Blood Alcohol Concentration (BAC):**  \n  * *<30 mg/dL:* Normal / sober.  \n  * *150–300 mg/dL:* Staggering gait, thick slurred speech, marked mental confusion, impaired coordination.  \n  * *>400 mg/dL:* Deep coma, respiratory failure, and death.",
+        "source": "54 Batch",
+        "q_num": "16",
+        "id": "ch26_q16"
+      },
+      {
+        "question": "Clinical management protocol for a crawling toddler who ingested kerosene oil.",
+        "credit": "Rashid",
+        "page_ref": "*Concept FM P-5, Page 695*",
+        "answer": "1. **Strictly AVOID emetics and gastric lavage:** Inducing vomiting or passing a tube causes kerosene aspiration into the lungs, producing severe chemical pneumonitis and fatal pulmonary edema.  \n2. Remove contaminated clothing and wash exposed skin thoroughly with soap and water.  \n3. Humidified oxygen therapy for respiratory distress.  \n4. Maintain a clear airway; intubation and ventilatory support if respiratory failure occurs.  \n5. Keep under clinical observation for at least 24 hours.",
+        "source": "54 Batch",
+        "q_num": "17",
+        "id": "ch26_q17"
+      },
+      {
+        "question": "Domestic/kitchen poisoning: Excess culinary condiment in polao causing toxicity; common household poisons; food poisoning causes.",
+        "credit": "Nuha",
+        "page_ref": "*Concept FM P-4, Page 545 & 580; Concept FM P-5, Page 701*",
+        "answer": "* **Culinary Condiment in Polao:** Excess **poppy seeds (posto-badam / opium capsule extract)** or nutmeg (myristica) used as spices can produce opioid-like drowsiness, stupor, and miosis.  \n* **Household Poisons in a Kitchen:** Bleaching powder, caustic soda (drain cleaner), detergents, kerosene, rodenticides, boric acid, and kerosene oil.  \n* **Bacterial Causes of Food Poisoning:** *Staphylococcus aureus*, *Salmonella*, *Clostridium perfringens*, *Bacillus cereus*, *Vibrio parahaemolyticus*, and *Escherichia coli*.",
+        "source": "54 Batch",
+        "q_num": "18",
+        "id": "ch26_q18"
+      },
+      {
+        "question": "Clinical scenario: A man exhibiting bizarre behavior at Nothullabad bus stand. Differential diagnoses.",
+        "credit": "Oyshe",
+        "page_ref": "*Concept FM P-4, Page 589; Concept FM P-5, Page 604 & 611*",
+        "answer": "Differential diagnoses:  \n1. **Deliriant / Traveler’s poisoning** (Datura or cannabis administered in food/drink).  \n2. **Acute alcohol intoxication**.  \n3. **Severe Head injury** (subdural or extradural hemorrhage).  \n4. **Acute psychosis / Schizophrenia**.  \n5. **Severe hypoglycemia or diabetic ketoacidosis**.",
+        "source": "54 Batch",
+        "q_num": "19",
+        "id": "ch26_q19"
+      },
+      {
+        "question": "Venomous vs. non-venomous snakes of Bangladesh: Classification of toxins, psychological reassurance, antivenom availability, and commonest cause of death.",
+        "credit": "Mahia Rahman, Nuha",
+        "page_ref": "*Concept FM P-5, Page 653, 657, 659 & 660*",
+        "answer": "* **Snake Toxins by Species:**  \n  * *Elapids (Cobra, Krait):* **Neurotoxic** (causes respiratory muscle paralysis and ptosis).  \n  * *Viperids (Russell’s viper):* **Vasculotoxic / Hemotoxic** (causes bleeding disorders and DIC).  \n  * *Hydrophiids (Sea snakes):* **Myotoxic** (causes generalized muscle necrosis and myoglobinuria).  \n* **Psychological Reassurance:** The doctor must reassure the panicked victim that **over 80% of snakebites in Bangladesh are from non-venomous species**, and modern treatment is available.  \n* **Antivenom Availability:** **Polyvalent Antivenom** (effective against Cobra, Krait, Russell's viper, and Saw-scaled viper) is supplied in government upazila health complexes and district hospitals.  \n* **Commonest Cause of Death in Bangladesh:** **Neurogenic shock** triggered by acute fear and terror immediately following the bite.",
+        "source": "54 Batch",
+        "q_num": "20",
+        "id": "ch26_q20"
+      }
+    ]
+  }
+]
