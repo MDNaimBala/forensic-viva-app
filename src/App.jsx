@@ -4,7 +4,7 @@ import ForensicView from "./ForensicView";
 import "./App.css";
 
 function App() {
-  const [activeSubject, setActiveSubject] = useState("pharma"); // "pharma" or "forensic"
+  const [activeSubject, setActiveSubject] = useState("forensic"); // "forensic" or "pharma"
 
   const handleSubjectChange = (subject) => {
     setActiveSubject(subject);
