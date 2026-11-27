@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import pharmaBoardsData from "./pharma_data.json";
+import pharmaRawBoardsData from "./pharma_raw_data.json";
 
 function highlightText(text, query) {
   if (!query || !query.trim() || typeof text !== "string") return text;
@@ -32,6 +33,7 @@ function highlightDirectStrings(children, query) {
 
 function PharmacologyView() {
   const [currentBoardId, setCurrentBoardId] = useState("board_a"); // "board_a" or "board_b"
+  const [viewMode, setViewMode] = useState("sorted"); // "sorted" or "raw"
   const [currentChapterNum, setCurrentChapterNum] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [openQuestions, setOpenQuestions] = useState({});
@@ -61,20 +63,29 @@ function PharmacologyView() {
     };
   }, [searchQuery]);
 
-  // Active board
-  const boardA = pharmaBoardsData.find((b) => b.id === "board_a") || pharmaBoardsData[0];
-  const boardB = pharmaBoardsData.find((b) => b.id === "board_b") || pharmaBoardsData[1];
+  // Active dataset depending on mode
+  const isRawMode = viewMode === "raw";
+  const activeSourceData = isRawMode ? pharmaRawBoardsData : pharmaBoardsData;
+
+  const boardA = activeSourceData.find((b) => b.id === "board_a") || activeSourceData[0];
+  const boardB = activeSourceData.find((b) => b.id === "board_b") || activeSourceData[1];
   const activeBoard = currentBoardId === "board_b" ? boardB : boardA;
 
   // Active chapters
   const availableChapters = activeBoard ? activeBoard.chapters : [];
   const currentChapter =
-    availableChapters.find((c) => c.number === currentChapterNum) || availableChapters[0] || { topics: [] };
+    availableChapters.find((c) => c.number === currentChapterNum) ||
+    availableChapters[0] || { topics: [], subsections: [] };
 
-  // When switching board, reset chapter and search
+  // When switching board or format, reset state
   const handleBoardChange = (newBoardId) => {
     setCurrentBoardId(newBoardId);
     setCurrentChapterNum(1);
+    setOpenQuestions({});
+  };
+
+  const handleModeChange = (newMode) => {
+    setViewMode(newMode);
     setOpenQuestions({});
   };
 
@@ -100,14 +111,15 @@ function PharmacologyView() {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [currentChapterNum, availableChapters.length]);
 
-  // Filtered topics based on search
+  // Filtered topics (Sorted Mode)
   const filteredTopics = useMemo(() => {
+    if (isRawMode) return [];
     const query = searchQuery.trim().toLowerCase();
+    const sourceTopics = currentChapter.topics || [];
     if (!query) {
-      return currentChapter.topics || [];
+      return sourceTopics;
     }
 
-    const sourceTopics = currentChapter.topics || [];
     const result = [];
     sourceTopics.forEach((t) => {
       const matchedSubtopics = [];
@@ -121,19 +133,52 @@ function PharmacologyView() {
         if (matchedQuestions.length > 0) {
           matchedSubtopics.push({
             ...s,
-            questions: matchedQuestions
+            questions: matchedQuestions,
           });
         }
       });
       if (matchedSubtopics.length > 0) {
         result.push({
           ...t,
-          subtopics: matchedSubtopics
+          subtopics: matchedSubtopics,
         });
       }
     });
     return result;
-  }, [searchQuery, currentChapter]);
+  }, [isRawMode, searchQuery, currentChapter]);
+
+  // Filtered subsections (Raw Tana Mode)
+  const filteredRawSubsections = useMemo(() => {
+    if (!isRawMode) return [];
+    const query = searchQuery.trim().toLowerCase();
+    const sourceSubs = currentChapter.subsections || [];
+    if (!query) {
+      return sourceSubs;
+    }
+
+    const result = [];
+    sourceSubs.forEach((sub) => {
+      const matchedQuestions = sub.questions.filter((q) => {
+        const qText = (q.question || "").toLowerCase();
+        const ansText = (q.answer || "").toLowerCase();
+        const sTitle = (sub.title || "").toLowerCase();
+        const cardNumStr = String(q.card_number || "");
+        return (
+          qText.includes(query) ||
+          ansText.includes(query) ||
+          sTitle.includes(query) ||
+          cardNumStr.includes(query)
+        );
+      });
+      if (matchedQuestions.length > 0) {
+        result.push({
+          ...sub,
+          questions: matchedQuestions,
+        });
+      }
+    });
+    return result;
+  }, [isRawMode, searchQuery, currentChapter]);
 
   // Question expand/collapse
   const isSearching = !!searchQuery.trim();
@@ -143,12 +188,15 @@ function PharmacologyView() {
       const current = isSearching ? prev[id] !== false : !!prev[id];
       return {
         ...prev,
-        [id]: !current
+        [id]: !current,
       };
     });
   };
 
   const totalFilteredCount = useMemo(() => {
+    if (isRawMode) {
+      return filteredRawSubsections.reduce((acc, sub) => acc + sub.questions.length, 0);
+    }
     if (!searchQuery.trim()) {
       return currentChapter.total_questions || 0;
     }
@@ -156,57 +204,96 @@ function PharmacologyView() {
       (acc, t) => acc + t.subtopics.reduce((sAcc, s) => sAcc + s.questions.length, 0),
       0
     );
-  }, [searchQuery, currentChapter, filteredTopics]);
+  }, [isRawMode, searchQuery, currentChapter, filteredTopics, filteredRawSubsections]);
 
   const handleExpandAll = () => {
     const allOpen = {};
-    filteredTopics.forEach((t) => {
-      t.subtopics.forEach((s) => {
-        s.questions.forEach((q) => {
+    if (isRawMode) {
+      filteredRawSubsections.forEach((sub) => {
+        sub.questions.forEach((q) => {
           allOpen[q.id] = true;
         });
       });
-    });
+    } else {
+      filteredTopics.forEach((t) => {
+        t.subtopics.forEach((s) => {
+          s.questions.forEach((q) => {
+            allOpen[q.id] = true;
+          });
+        });
+      });
+    }
     setOpenQuestions(allOpen);
   };
 
   const handleCollapseAll = () => {
     const allClosed = {};
-    filteredTopics.forEach((t) => {
-      t.subtopics.forEach((s) => {
-        s.questions.forEach((q) => {
+    if (isRawMode) {
+      filteredRawSubsections.forEach((sub) => {
+        sub.questions.forEach((q) => {
           allClosed[q.id] = false;
         });
       });
-    });
+    } else {
+      filteredTopics.forEach((t) => {
+        t.subtopics.forEach((s) => {
+          s.questions.forEach((q) => {
+            allClosed[q.id] = false;
+          });
+        });
+      });
+    }
     setOpenQuestions(allClosed);
   };
 
   const allAreOpen =
     totalFilteredCount > 0 &&
-    filteredTopics.every((t) =>
-      t.subtopics.every((s) =>
-        s.questions.every((q) => (isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id]))
-      )
-    );
+    (isRawMode
+      ? filteredRawSubsections.every((sub) =>
+          sub.questions.every((q) => (isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id]))
+        )
+      : filteredTopics.every((t) =>
+          t.subtopics.every((s) =>
+            s.questions.every((q) => (isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id]))
+          )
+        ));
 
   return (
     <div className="card-container">
       <div className="card-sheet">
-        {/* Board Switcher (Strictly Board A and Board B) */}
-        <div className="board-switcher">
-          <button
-            className={`board-btn ${currentBoardId === "board_a" ? "active" : ""}`}
-            onClick={() => handleBoardChange("board_a")}
-          >
-            Board A
-          </button>
-          <button
-            className={`board-btn ${currentBoardId === "board_b" ? "active" : ""}`}
-            onClick={() => handleBoardChange("board_b")}
-          >
-            Board B
-          </button>
+        {/* Header Controls: Board Switcher & Format Mode Switcher */}
+        <div className="pharma-header-controls">
+          <div className="board-switcher">
+            <button
+              className={`board-btn ${currentBoardId === "board_a" ? "active" : ""}`}
+              onClick={() => handleBoardChange("board_a")}
+            >
+              Board A
+            </button>
+            <button
+              className={`board-btn ${currentBoardId === "board_b" ? "active" : ""}`}
+              onClick={() => handleBoardChange("board_b")}
+            >
+              Board B
+            </button>
+          </div>
+
+          <div className="format-switcher">
+            <button
+              className={`format-btn ${viewMode === "sorted" ? "active" : ""}`}
+              onClick={() => handleModeChange("sorted")}
+              title="Syllabus-sorted consolidated questions with detailed solutions"
+            >
+              Sorted Topics
+            </button>
+            <button
+              className={`format-btn ${viewMode === "raw" ? "active" : ""}`}
+              onClick={() => handleModeChange("raw")}
+              title="Original card-by-card questions as drawn from physical Tana cards"
+            >
+              Raw Tana Cards
+            </button>
+          </div>
         </div>
 
         {/* AI Disclaimer Dropdown */}
@@ -255,7 +342,7 @@ function PharmacologyView() {
             >
               {availableChapters.map((ch) => (
                 <option key={ch.id} value={ch.number}>
-                  {ch.title} ({ch.total_questions} Questions)
+                  {ch.title} ({ch.total_questions} {isRawMode ? "Cards" : "Questions"})
                 </option>
               ))}
             </select>
@@ -276,6 +363,7 @@ function PharmacologyView() {
           <div className="active-title-block">
             <h2 className="current-chapter-title">
               {currentChapter.title}
+              {isRawMode && <span className="raw-mode-indicator"> • Raw Tana Cards</span>}
             </h2>
           </div>
 
@@ -283,7 +371,7 @@ function PharmacologyView() {
             <input
               type="text"
               className="search-input"
-              placeholder="Search question"
+              placeholder={isRawMode ? "Search raw card or keyword..." : "Search question..."}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />
@@ -302,88 +390,165 @@ function PharmacologyView() {
           </div>
         </div>
 
-        {/* Hierarchical Questions Display */}
+        {/* Hierarchical Questions Display: Sorted vs Raw */}
         <div className="questions-container">
-          {filteredTopics.length === 0 ? (
-            <div className="no-results">
-              <p>No questions matched your search query <strong>"{searchQuery}"</strong>.</p>
-              <button className="reset-btn" onClick={() => setSearchQuery("")}>
-                Clear Search
-              </button>
-            </div>
-          ) : (
-            filteredTopics.map((topic, tIdx) => (
-              <div key={tIdx} className="major-topic-section">
-                {/* Major Topic Banner */}
-                <div className="major-topic-banner">
-                  <span className="major-topic-title">{topic.title}</span>
-                </div>
+          {/* SORTED MODE DISPLAY */}
+          {!isRawMode && (
+            filteredTopics.length === 0 ? (
+              <div className="no-results">
+                <p>No questions matched your search query <strong>"{searchQuery}"</strong>.</p>
+                <button className="reset-btn" onClick={() => setSearchQuery("")}>
+                  Clear Search
+                </button>
+              </div>
+            ) : (
+              filteredTopics.map((topic, tIdx) => (
+                <div key={tIdx} className="major-topic-section">
+                  <div className="major-topic-banner">
+                    <span className="major-topic-title">{topic.title}</span>
+                  </div>
 
-                {/* Subtopic Groups */}
-                <div className="subtopics-list">
-                  {topic.subtopics.map((sub, sIdx) => (
-                    <div key={sIdx} className="subtopic-block">
-                      <div className="subtopic-header-bar">
-                        <span className="subtopic-heading-text">
-                          {highlightText(sub.title, searchQuery)}
-                        </span>
-                        <span className="subtopic-count-pill">
-                          {sub.questions.length} {sub.questions.length === 1 ? "Question" : "Questions"}
-                        </span>
-                      </div>
+                  <div className="subtopics-list">
+                    {topic.subtopics.map((sub, sIdx) => (
+                      <div key={sIdx} className="subtopic-block">
+                        <div className="subtopic-header-bar">
+                          <span className="subtopic-heading-text">
+                            {highlightText(sub.title, searchQuery)}
+                          </span>
+                          <span className="subtopic-count-pill">
+                            {sub.questions.length} {sub.questions.length === 1 ? "Question" : "Questions"}
+                          </span>
+                        </div>
 
-                      <div className="subtopic-questions">
-                        {sub.questions.map((q) => {
-                          const isOpen = isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id];
-                          return (
-                            <div
-                              key={q.id}
-                              className={`question-card ${isOpen ? "expanded" : ""}`}
-                            >
+                        <div className="subtopic-questions">
+                          {sub.questions.map((q) => {
+                            const isOpen = isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id];
+                            return (
                               <div
-                                className="question-card-header"
-                                onClick={() => toggleQuestion(q.id)}
+                                key={q.id}
+                                className={`question-card ${isOpen ? "expanded" : ""}`}
                               >
-                                <div className="q-left">
-                                  <span className="q-index-badge">
-                                    {String(q.chapter_index || q.global_index).padStart(2, "0")}.
-                                  </span>
-                                  <div className="q-text-content">
-                                    <span className="q-title-text">
-                                      {highlightText(q.question, searchQuery)}
+                                <div
+                                  className="question-card-header"
+                                  onClick={() => toggleQuestion(q.id)}
+                                >
+                                  <div className="q-left">
+                                    <span className="q-index-badge">
+                                      {String(q.chapter_index || q.global_index).padStart(2, "0")}.
+                                    </span>
+                                    <div className="q-text-content">
+                                      <span className="q-title-text">
+                                        {highlightText(q.question, searchQuery)}
+                                      </span>
+                                    </div>
+                                  </div>
+
+                                  <div className="q-right">
+                                    <span className={`chevron-icon ${isOpen ? "open" : ""}`}>
+                                      &#9662;
                                     </span>
                                   </div>
                                 </div>
 
-                                <div className="q-right">
-                                  <span className={`chevron-icon ${isOpen ? "open" : ""}`}>
-                                    &#9662;
-                                  </span>
-                                </div>
-                              </div>
-
-                              {isOpen && (
-                                <div className="answer-drawer">
-                                  <div className="answer-divider"></div>
-                                  <div className="markdown-answer-body">
-                                    <ReactMarkdown
-                                      remarkPlugins={[remarkGfm]}
-                                      components={markdownComponents}
-                                    >
-                                      {q.answer || "*No detailed solution provided.*"}
-                                    </ReactMarkdown>
+                                {isOpen && (
+                                  <div className="answer-drawer">
+                                    <div className="answer-divider"></div>
+                                    <div className="markdown-answer-body">
+                                      <ReactMarkdown
+                                        remarkPlugins={[remarkGfm]}
+                                        components={markdownComponents}
+                                      >
+                                        {q.answer || "*No detailed solution provided.*"}
+                                      </ReactMarkdown>
+                                    </div>
                                   </div>
-                                </div>
-                              )}
-                            </div>
-                          );
-                        })}
+                                )}
+                              </div>
+                            );
+                          })}
+                        </div>
                       </div>
-                    </div>
-                  ))}
+                    ))}
+                  </div>
                 </div>
+              ))
+            )
+          )}
+
+          {/* RAW TANA CARDS MODE DISPLAY */}
+          {isRawMode && (
+            filteredRawSubsections.length === 0 ? (
+              <div className="no-results">
+                <p>No raw cards matched your search query <strong>"{searchQuery}"</strong>.</p>
+                <button className="reset-btn" onClick={() => setSearchQuery("")}>
+                  Clear Search
+                </button>
               </div>
-            ))
+            ) : (
+              filteredRawSubsections.map((sub, sIdx) => (
+                <div key={sIdx} className="major-topic-section">
+                  <div className="major-topic-banner">
+                    <span className="major-topic-title">{sub.title}</span>
+                    <span className="subtopic-count-pill" style={{ marginLeft: "auto" }}>
+                      {sub.questions.length} {sub.questions.length === 1 ? "Card" : "Cards"}
+                    </span>
+                  </div>
+
+                  <div className="subtopic-questions" style={{ marginTop: "12px" }}>
+                    {sub.questions.map((q) => {
+                      const isOpen = isSearching ? openQuestions[q.id] !== false : !!openQuestions[q.id];
+                      return (
+                        <div
+                          key={q.id}
+                          className={`question-card ${isOpen ? "expanded" : ""}`}
+                        >
+                          <div
+                            className="question-card-header"
+                            onClick={() => toggleQuestion(q.id)}
+                          >
+                            <div className="q-left">
+                              <span className="q-index-badge raw-card-badge">
+                                Card {String(q.card_number).padStart(2, "0")}
+                              </span>
+                              <div className="q-text-content">
+                                <span className="q-title-text">
+                                  {highlightText(q.question, searchQuery)}
+                                </span>
+                                {q.matched_topics && q.matched_topics.length > 0 && (
+                                  <span className="raw-matched-topic-hint">
+                                    Topic Reference: {q.matched_topics[0]}
+                                  </span>
+                                )}
+                              </div>
+                            </div>
+
+                            <div className="q-right">
+                              <span className={`chevron-icon ${isOpen ? "open" : ""}`}>
+                                &#9662;
+                              </span>
+                            </div>
+                          </div>
+
+                          {isOpen && (
+                            <div className="answer-drawer">
+                              <div className="answer-divider"></div>
+                              <div className="markdown-answer-body">
+                                <ReactMarkdown
+                                  remarkPlugins={[remarkGfm]}
+                                  components={markdownComponents}
+                                >
+                                  {q.answer || "*No detailed solution provided.*"}
+                                </ReactMarkdown>
+                              </div>
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              ))
+            )
           )}
         </div>
       </div>
